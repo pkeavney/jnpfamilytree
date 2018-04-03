@@ -1,0 +1,1556 @@
+<svg height="8000" width="8000">
+<!--- back ground of the root - root ball -->
+     <defs>
+       <linearGradient id="grad1" x1="20%" y1="0%" x2="20%" y2="100%">
+       <stop offset="20%" style="stop-color:rgb(139, 69, 19);stop-opacity:1" />
+       <stop offset="200%" style="stop-color:rgb(255, 255, 255);stop-opacity:10" />
+       </linearGradient>
+     </defs>
+     <path d="M 200 555 l 00 2700 l 6400 00 l 00 -2700 Z" stroke="brown" stroke-width="0" fill="url(#grad1)" />
+<!--- s1-L0-0 -->
+     <path d="M 3506.484161 767.549767 a 110 110 0 0,1 146.795212 , 126.858893" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3651.940744 807.238376 a 110 110 0 0,1 2.61957 , 87.682294" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3651.940753 807.238377 a 88 88 0 0,1 -8.381945 , -37.482867" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3643.558808 769.75551 l 0 -214.45032 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3643.957954 709.425372 l -38.228762 67.462582 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3601.25173 731.100146 l -110.534116 42.513768 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3643.558808 669.499464 a 66 66 0 0,1 -42.307072 , 61.600691" stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L0-0 -->
+     <path id="S1-L0-0_TxtLine1" d="M 3642.1138 678.0374 l 0 -312.8 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L0-0_TxtLine1">Michael Paul Gamble</textPath></text>
+     <path id="S1-L0-0_TxtLine2" d="M 3657.1138 678.0374 l 0 -312.8 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L0-0_TxtLine2">B: 4-May-1907  --  D: 4-Nov-1992</textPath></text>
+     <path id="S0-L0_TxtMarrage1" d="M 3723.558808 555.3052 a 141.049 141.049 0 0,1 142.099 , 10" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="20" font-family="times new roman"> <textPath href="#S0-L0_TxtMarrage1">8-Jan-1944</textPath></text>
+<!--- s1-l1-1 -->
+     <path d="M 3624.054966 1139.126183 a 110 110 0 0,1 14.669738 , 82.882131" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3613.147801 1122.026099 a 110 110 0 0,1 -9.401576 , -99.982645" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3511.214296 1092.152624 a 110 110 0 0,1 104.874192 , 34.483838" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3603.746224 1022.043452 a 110 110 0 0,1 -75.730258 , 65.95337" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3528.015987 1087.996824 l -19.689142 4.869986 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3440.567558 1142.800046 a 110 110 0 0,1 67.759287 , -49.933234" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3613.147803 1122.026116 l 10.90716 17.10005 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3654.560326 894.920682 l -50.814091 127.122782 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L1-1 -->
+     <path id="S1-L1-1_TxtLine1" d="M 3603.295886 1015.053744 l 122.67283 -306.893483 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L1-1_TxtLine1">Vincenzo Gambone</textPath></text>
+     <path id="S1-L1-1_TxtLine2" d="M 3617.224359 1020.621296 l 122.67283 -306.893483 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L1-1_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1933</textPath></text>
+     <path id="S1-L0-0_TxtMarrage1" d="M 3545.274138 764.619894 a 105.6 105.6 0 0,1 103.092982 , 79.777625" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L0-0_TxtMarrage1">9-Jan-1944</textPath></text>
+<!--- s1-l1-2 -->
+     <path d="M 3226.586265 941.970343 a 110 110 0 0,1 -50.815898 , 67.099876" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3231.713542 922.346649 a 110 110 0 0,1 66.938998 , -74.860467" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3298.652551 847.486184 a 110 110 0 0,1 -99.851016 , -10.709502" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3194.230064 833.775922 a 110 110 0 0,1 33.108123 , 105.316587" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3261.094046 860.717357 l -35.230338 15.741264 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3099.162677 809.893244 a 110 110 0 0,1 82.683009 , 15.753375" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3198.80153 836.776693 l -16.95584 -11.130064 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3490.717614 773.613914 l -192.06508 73.872269 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3231.713552 922.346661 l -5.127298 19.623692 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L1-2 -->
+     <path id="S1-L1-2_TxtLine1" d="M 3308.534502 839.588166 l 369.000835 -141.92552 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L1-2_TxtLine1">Maria Francesca DeStefano</textPath></text>
+     <path id="S1-L1-2_TxtLine2" d="M 3313.919258 853.588323 l 369.000835 -141.92552 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L1-2_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1993</textPath></text>
+<!--- s1-l2-1 -->
+     <path d="M 3594.823078 1466.062411 a 110 110 0 0,1 0.112858 , 61.438362" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3589.944882 1556.991333 a 132 132 0 0,1 4.991044 , -29.490555" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3594.82307 1466.062418 a 110 110 0 0,1 5.391874 , -76.355045" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3549.854634 1427.718911 l -23.762662 3.547368 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3604.55609 1376.679167 a 66 66 0 0,1 -54.701469 , 51.039729" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3525.72102 1431.321647 a 66 66 0 0,1 71.591307 , 42.233237" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3473.856665 1473.860801 a 66 66 0 0,1 52.235297 , -42.594528" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3638.724717 1222.008306 l -34.168624 154.67087 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L2-1 -->
+     <path id="S1-L2-1_TxtLine1" d="M 3604.633505 1372.768816 l 70.252544 -318.011826 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L2-1_TxtLine1">Luigi Alfoneso Gambone</textPath></text>
+     <path id="S1-L2-1_TxtLine2" d="M 3619.280364 1376.004479 l 70.252544 -318.011826 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L2-1_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1934</textPath></text>
+     <path id="S1-L1-1_TxtMarrage1" d="M 3488.643295 1104.385504 a 105.6 105.6 0 0,1 136.979669 , 43.012884" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L1-1_TxtMarrage1">11-Jan-1944</textPath></text>
+<!--- s1-l2-2 -->
+     <path d="M 3268.578941 1382.927202 a 110 110 0 0,1 42.431903 , -44.432181" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3359.736977 1279.461743 a 110 110 0 0,1 -48.726148 , 59.033276" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3370.019532 1341.713707 a 66 66 0 0,1 -4.44708 , -74.68285" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3370.019522 1341.713708 l 14.769986 18.94981 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3304.042811 1342.207178 a 66 66 0 0,1 80.97727 , 18.752153" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3384.789521 1360.663519 a 66 66 0 0,1 8.481794 , 66.864634" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3268.578944 1382.927202 a 132 132 0 0,1 -16.712326 , 24.805273" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3440.567571 1142.800056 l -74.995129 124.230802 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L2-2 -->
+     <path id="S1-L2-2_TxtLine1" d="M 3364.108527 1261.886865 l 161.446276 -267.438753 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L2-2_TxtLine1">Candida Cianciulli</textPath></text>
+     <path id="S1-L2-2_TxtLine2" d="M 3376.95005 1269.63898 l 161.446276 -267.438753 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L2-2_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1994</textPath></text>
+<!--- s1-l2-3 -->
+     <path d="M 2902.13485 1197.952745 a 132 132 0 0,1 25.021905 , -16.386203" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2972.140555 1139.719871 a 110 110 0 0,1 -44.983791 , 41.846668" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2972.140544 1139.719886 a 110 110 0 0,1 59.666024 , -47.949252" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2969.694534 1080.674122 l -18.754868 -15.016782 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3044.312774 1086.098397 a 66 66 0 0,1 -74.618241 , -5.424267" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2950.646914 1065.422923 a 66 66 0 0,1 17.690587 , 81.21579" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2884.191786 1056.301057 a 66 66 0 0,1 66.747882 , 9.356298" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3175.770368 1009.070221 l -131.457598 77.028155 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L2-3 -->
+     <path id="S1-L2-3_TxtLine1" d="M 3054.643262 1080.779328 l 275.784873 -161.597374 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L2-3_TxtLine1">Salvatore DeStefano</textPath></text>
+     <path id="S1-L2-3_TxtLine2" d="M 3062.226622 1093.721222 l 275.784873 -161.597374 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L2-3_TxtLine2">B: 4-May-1908  --  D: 12-Mar-1935</textPath></text>
+     <path id="S1-L1-2_TxtMarrage1" d="M 3170.987409 822.484825 a 105.6 105.6 0 0,1 32.655399 , 156.965892" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L1-2_TxtMarrage1">13-Jan-1944</textPath></text>
+<!--- s1-l2-4 -->
+     <path d="M 2873.209279 922.935103 a 66 66 0 0,1 -43.274618 , 51.673277" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2831.856526 851.167308 a 66 66 0 0,1 41.292517 , 72.137989" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2777.88416 852.837375 a 110 110 0 0,1 61.431621 , 0.917052" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2777.884176 852.837381 a 132 132 0 0,1 -29.55336 , 4.604597" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2877.067389 899.220911 a 66 66 0 0,1 51.751376 , -54.028693" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2915.734878 849.362463 a 110 110 0 0,1 -76.419081 , 4.391955" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3099.162694 809.893265 l -170.343931 35.298966 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2877.067393 899.220909 l -3.858118 23.714196 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L2-4 -->
+     <path id="S1-L2-4_TxtLine1" d="M 2925.291121 843.991132 l 334.143208 -69.241743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L2-4_TxtLine1">Angela Maria DeStefano</textPath></text>
+     <path id="S1-L2-4_TxtLine2" d="M 2928.334785 858.679089 l 334.143208 -69.241743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L2-4_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1995</textPath></text>
+<!--- s1-l3-1 -->
+     <path d="M 3652.750146 2120.474168 a 88 88 0 0,1 29.548317 , 68.039346" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3652.750167 2120.474183 a 154 154 0 0,1 -50.783412 , -132.471666" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3594.897697 1902.327566 a 66 66 0 0,1 11.621805 , 45.421595" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3576.44163 1806.278602 a 110 110 0 0,1 -28.882667 , 68.522285" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3594.897714 1902.327571 a 110 110 0 0,1 -19.905546 , -69.289871" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3517.978231 1912.446101 a 47.52 47.52 0 0,1 75.461353 , -12.241174" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3606.519506 1947.749169 l -4.552768 40.253334 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3512.622987 1936.76359 a 66 66 0 0,1 17.40218 , -42.902232" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3589.944882 1556.991329 l -14.952718 276.046386 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3547.558956 1874.800887 l -17.53378 19.06047 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-1 -->
+     <path id="S1-L3-1_TxtLine1" d="M 3575.442721 1798.110157 l 16.659146 -307.549139 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-1_TxtLine1">Giuseppe Gambone</textPath></text>
+     <path id="S1-L3-1_TxtLine2" d="M 3590.420764 1798.921479 l 16.659146 -307.549139 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-1_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1936</textPath></text>
+     <path id="S1-L2-1_TxtMarrage1" d="M 3507.477052 1439.265285 a 63.8 63.8 0 0,1 91.061462 , 47.727591" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L2-1_TxtMarrage1">15-Jan-1944</textPath></text>
+<!--- s1-l3-2 -->
+     <path d="M 3365.434983 2300.932778 a 154 154 0 0,1 -9.833452 , -141.530917" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3365.434997 2300.932786 a 88 88 0 0,1 8.364416 , 73.705442" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3286.368136 2080.627015 a 47.52 47.52 0 0,1 88.64641 , 34.027419" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3375.127391 2077.091254 a 110 110 0 0,1 6.935399 , -99.909591" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3380.230782 1980.342148 a 198 198 0 0,1 -72.833012 , 74.398707" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3399.207695 1809.332289 a 198 198 0 0,1 -17.14491 , 167.849376" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3399.2077 1809.332284 a 198 198 0 0,1 0.834097 , -133.768703" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3473.856668 1473.860809 l -76.614884 201.702776 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3375.01454 2114.654413 l -19.412998 44.74745 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-2 -->
+     <path id="S1-L3-2_TxtLine1" d="M 3400.626681 1663.317982 l 109.227006 -287.981703 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-2_TxtLine1">Maria Marinaro</textPath></text>
+     <path id="S1-L3-2_TxtLine2" d="M 3414.651764 1668.637479 l 109.227006 -287.981703 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-2_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1996</textPath></text>
+<!--- s1-l3-3 -->
+     <path d="M 3006.392056 2005.693574 a 154 154 0 0,1 -104.68282 , 95.755963" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2844.843521 2149.080902 a 88 88 0 0,1 56.865706 , -47.631367" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3048.983866 1932.602993 a 47.52 47.52 0 0,1 66.325168 , 43.091725" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3107.376724 1934.643298 l 5.47261 19.040714 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3111.445957 1862.220623 a 198 198 0 0,1 104.661759 , -140.198589" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3112.828174 1855.441292 a 110 110 0 0,1 -59.224912 , 75.04292" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3107.376733 1934.6433 a 110 110 0 0,1 1.89467 , -66.721485" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3112.849329 1953.684019 a 66 66 0 0,1 -3.629973 , 46.154749" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3020.526356 1967.117124 l -14.134296 38.57645 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3020.526358 1967.117133 a 66 66 0 0,1 33.076905 , -36.632908" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3307.711671 1624.536265 a 198 198 0 0,1 -91.603968 , 97.485765" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3393.2713 1427.528162 l -85.559628 197.008108 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-3 -->
+     <path id="S1-L3-3_TxtLine1" d="M 3307.956147 1620.919532 l 122.691758 -282.507933 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-3_TxtLine1">Donato Cianciulli</textPath></text>
+     <path id="S1-L3-3_TxtLine2" d="M 3321.71465 1626.89478 l 122.691758 -282.507933 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-3_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1937</textPath></text>
+     <path id="S1-L2-2_TxtMarrage1" d="M 3298.745535 1347.685821 a 63.8 63.8 0 0,1 97.302826 , 44.314925" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L2-2_TxtMarrage1">17-Jan-1944</textPath></text>
+<!--- s1-l3-4 -->
+     <path d="M 2749.644398 1801.588166 a 88 88 0 0,1 68.307009 , -28.92418" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2946.056413 1711.698407 a 154 154 0 0,1 -128.105013 , 60.965589" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2970.505168 1679.397975 a 66 66 0 0,1 39.729203 , -24.895341" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3072.417534 1618.025635 a 110 110 0 0,1 -62.183155 , 36.47701" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2970.505176 1679.397978 l -24.448754 32.300422 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3012.75388 1653.96994 a 47.52 47.52 0 0,1 46.231171 , 60.884653" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3063.504115 1667.191608 a 110 110 0 0,1 26.30867 , -69.551174" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3063.06815 1693.086506 a 66 66 0 0,1 -16.965703 , 43.076704" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3063.504104 1667.191608 l -0.435952 25.894902 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3251.866608 1407.732474 l -179.449072 210.29316 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-4 -->
+     <path id="S1-L3-4_TxtLine1" d="M 3095.395919 1588.32981 l 199.735325 -234.456391 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-4_TxtLine1">Lucra Marano</textPath></text>
+     <path id="S1-L3-4_TxtLine2" d="M 3106.81425 1598.05718 l 199.735325 -234.456391 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-4_TxtLine2">B: 4-May-1909  --  D: 4-Nov-1997</textPath></text>
+<!--- s1-l3-5 -->
+     <path d="M 2531.554814 1627.053985 a 88 88 0 0,1 -29.815813 , 67.922551" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2902.134866 1197.952756 l -212.624082 176.681054 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2710.121934 1357.506886 a 110 110 0 0,1 -69.889586 , 25.396019" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2652.22296 1436.334159 a 110 110 0 0,1 37.287837 , -61.700358" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2592.514287 1386.797674 a 47.52 47.52 0 0,1 60.27429 , 47.024166" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2652.22296 1436.334157 a 66 66 0 0,1 -25.413248 , 39.39993" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2626.809706 1475.734084 l -32.617684 24.023868 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2531.554815 1627.053984 a 154 154 0 0,1 62.637209 , -127.296023" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2571.038875 1399.400276 a 66 66 0 0,1 43.295088 , -16.400393" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2640.232346 1382.902906 l -25.898378 0.096976 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-5 -->
+     <path id="S1-L3-5_TxtLine1" d="M 2708.313658 1358.057821 l 236.888986 -196.844122 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-5_TxtLine1">Domenico DeStefano</textPath></text>
+     <path id="S1-L3-5_TxtLine2" d="M 2717.900222 1369.594622 l 236.888986 -196.844122 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-5_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1938</textPath></text>
+     <path id="S1-L2-3_TxtMarrage1" d="M 2913.702898 1053.288566 a 63.8 63.8 0 0,1 45.712378 , 103.25819" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L2-3_TxtMarrage1">19-Jan-1944</textPath></text>
+<!--- s1-l3-6 -->
+     <path d="M 2203.698658 1539.696785 a 88 88 0 0,1 -50.129417 , 57.361366" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2203.698647 1539.69679 a 154 154 0 0,1 97.313155 , -104.117576" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2339.769964 1421.951058 l -38.75817 13.628142 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2332.433776 1327.06423 a 47.52 47.52 0 0,1 43.144891 , 64.662987" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2308.212095 1332.837352 a 66 66 0 0,1 46.198309 , -3.025515" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2373.377846 1335.53321 l -18.967454 -5.721364 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2587.40414 1229.594654 a 198 198 0 0,1 -141.556558 , 102.817649" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2440.118432 1334.512039 a 110 110 0 0,1 -66.740569 , 1.02115" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2376.832708 1389.356499 a 110 110 0 0,1 75.811721 , -58.237557" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2376.832707 1389.356504 a 66 66 0 0,1 -37.062733 , 32.594562" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2587.404145 1229.594651 a 198 198 0 0,1 98.676473 , -90.320071" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2884.191798 1056.301048 l -198.111188 82.97355 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-6 -->
+     <path id="S1-L3-6_TxtLine1" d="M 2700.119762 1132.879375 l 284.087846 -118.987794 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-6_TxtLine1">Maria Michela Pizza</textPath></text>
+     <path id="S1-L3-6_TxtLine2" d="M 2705.914622 1146.714822 l 284.087846 -118.987794 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-6_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1998</textPath></text>
+<!--- s1-l3-7 -->
+     <path d="M 2242.230289 1139.925219 l 33.174262 -38.471026 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2187.902136 1065.054308 a 47.52 47.52 0 0,1 32.864158 , 89.084221" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2254.451707 1093.805233 l 71.00368 -33.999108 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2325.455372 1059.806139 a 110 110 0 0,1 -95.297709 , 7.574746" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2275.404541 1101.454177 a 198 198 0 0,1 218.110246 , -56.59441" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2187.902125 1065.054313 l -44.9977 18.82562 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2142.904421 1083.879921 a 154 154 0 0,1 -141.390076 , -11.685192" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1927.924708 1062.866268 a 88 88 0 0,1 73.58964 , 9.328474" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2217.097313 1155.316243 l 3.668984 -1.177704 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2627.282942 1045.776717 a 198 198 0 0,1 -133.76816 , -0.916953" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2829.934659 974.608375 l -202.651702 71.16835 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-7 -->
+     <path id="S1-L3-7_TxtLine1" d="M 2627.880385 1044.213853 l 290.600794 -102.054784 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-7_TxtLine1">Unknown Person L3-7</textPath></text>
+     <path id="S1-L3-7_TxtLine2" d="M 2632.850585 1058.366489 l 290.600794 -102.054784 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-7_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1939</textPath></text>
+     <path id="S1-L2-4_TxtMarrage1" d="M 2826.293443 851.584208 a 63.8 63.8 0 0,1 20.177269 , 112.023365" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S1-L2-4_TxtMarrage1">21-Jan-1944</textPath></text>
+<!--- s1-l3-8 -->
+     <path d="M 2118.071582 756.829913 a 88 88 0 0,1 67.646741 , 30.436393" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2317.513901 839.779372 a 154 154 0 0,1 -131.795583 , -52.513062" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2357.823399 835.753908 a 66 66 0 0,1 45.265579 , 12.215359" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2472.112345 868.780083 a 110 110 0 0,1 -69.023379 , -20.810817" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2357.823393 835.753901 l -40.309478 4.025472 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2405.19236 849.45504 a 47.52 47.52 0 0,1 -13.227884 , 75.294656" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2410.70531 912.947059 a 66 66 0 0,1 -43.126344 , 16.839117" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2429.993657 895.664268 a 110 110 0 0,1 68.894477 , -27.983264" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2429.993667 895.664257 l -19.288346 17.282804 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2748.330807 857.441963 l -276.218448 11.338118 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L3-8 -->
+     <path id="S1-L3-8_TxtLine1" d="M 2506.538389 864.14071 l 307.740851 -12.632026 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-8_TxtLine1">Unknown Person L3-8</textPath></text>
+     <path id="S1-L3-8_TxtLine2" d="M 2507.153585 879.128089 l 307.740851 -12.632026 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L3-8_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1999</textPath></text>
+<!--- s1-l4-1 -->
+     <path d="M 3700.304692 2417.439686 a 132 132 0 0,1 -21.674563 , -84.293245" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3679.231583 2309.432646 a 132 132 0 0,1 -27.390874 , 77.212486" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3651.840723 2386.645127 l -21.608048 28.047404 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3616.598546 2451.672694 a 47.432 47.432 0 0,1 94.777688 , 2.403857" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3616.537246 2453.298772 a 66 66 0 0,1 13.695437 , -38.606243" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3700.304703 2417.439697 a 66 66 0 0,1 11.050344 , 38.263956" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3682.298484 2188.513517 l -3.66836 144.632934 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-1 -->
+     <path id="S1-L4-1_TxtLine1" d="M 3677.864282 2325.873725 l 9.751833 -384.488752 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-1_TxtLine1">Unknown Person L4-1</textPath></text>
+     <path id="S1-L4-1_TxtLine2" d="M 3692.859459 2326.254049 l 9.751833 -384.488752 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-1_TxtLine2">B: 4-May-1910  --  D: 12-Mar-1940</textPath></text>
+     <path id="S1-L3-1_TxtMarrage1" d="M 3524.82218 1922.072839 a 44 44 0 0,1 84.377826 , 5.692859" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-1_TxtMarrage1">23-Jan-1944</textPath></text>
+<!--- s1-l4-2 -->
+     <path d="M 3461.261304 2208.889502 a 66 66 0 0,1 20.099491 , -45.772233" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3512.623 1936.763579 l -4.290946 158.958668 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3508.156372 2102.230985 a 88 88 0 0,1 -26.795568 , 60.886273" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3535.61448 2161.824914 a 66 66 0 0,1 20.464625 , 49.469469" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3535.61448 2161.824894 a 88 88 0 0,1 -27.282414 , -66.102662" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3479.174865 2165.333145 a 47.4232 47.4232 0 0,1 73.004221 , 21.877368" stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-2 -->
+     <path id="S1-L4-2_TxtLine1" d="M 3505.448626 2094.143917 l 8.311125 -307.887846 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-2_TxtLine1">Unknown Person L4-2</textPath></text>
+     <path id="S1-L4-2_TxtLine2" d="M 3520.443164 2094.548679 l 8.311125 -307.887846 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-2_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2000</textPath></text>
+<!--- s1-l4-3 -->
+     <path d="M 3233.407069 2608.597239 a 47.5178 47.5178 0 0,1 90.149272 , 30.081124" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3323.564086 2608.620492 a 132 132 0 0,1 0.021525 , -83.49798" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3331.635276 2500.998706 a 132 132 0 0,1 -72.227508 , 79.11755" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3373.799414 2374.638225 l -42.164125 126.360465 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-3 -->
+     <path id="S1-L4-3_TxtLine1" d="M 3328.708277 2498.939923 l 121.739355 -364.837262 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-3_TxtLine1">Unknown Person L4-3</textPath></text>
+     <path id="S1-L4-3_TxtLine2" d="M 3342.937041 2503.687795 l 121.739355 -364.837262 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-3_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1941</textPath></text>
+     <path id="S1-L3-2_TxtMarrage1" d="M 3291.942167 2076.312921 a 44 44 0 0,1 82.62844 , 28.034017" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-2_TxtMarrage1">25-Jan-1944</textPath></text>
+<!--- s1-l4-4 -->
+     <path d="M 3241.327797 2306.229522 a 88 88 0 0,1 -6.763754 , -71.190896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3232.49305 2241.211599 a 88 88 0 0,1 -43.426152 , 50.391566" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3159.267835 2322.348755 a 47.4232 47.4232 0 0,1 90.329837 , 28.919892" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3286.368136 2080.627013 l -51.804082 154.411598 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-4 -->
+     <path id="S1-L4-4_TxtLine1" d="M 3239.219157 2219.428024 l 97.965663 -292.004673 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-4_TxtLine1">Unknown Person L4-4</textPath></text>
+     <path id="S1-L4-4_TxtLine2" d="M 3253.440164 2224.199079 l 97.965663 -292.004673 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-4_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2001</textPath></text>
+<!--- s1-l4-5 -->
+     <path d="M 2947.684687 2225.975773 a 47.5178 47.5178 0 0,1 86.002779 , 40.438625" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3034.541327 2227.834577 a 88 88 0 0,1 1.453772 , -71.17552" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2947.684687 2225.975773 a 47.5178 47.5178 0 0,1 31.744056 , -25.973606" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3038.289493 2151.745251 a 88 88 0 0,1 -58.860765 , 48.256916" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3109.219356 1999.838758 l -70.929848 151.906502 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-5 -->
+     <path id="S1-L4-5_TxtLine1" d="M 3034.95148 2147.349548 l 130.309302 -279.076129 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-5_TxtLine1">Unknown Person L4-5</textPath></text>
+     <path id="S1-L4-5_TxtLine2" d="M 3048.54285 2153.69578 l 130.309302 -279.076129 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-5_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1942</textPath></text>
+     <path id="S1-L3-3_TxtMarrage1" d="M 3030.197539 1953.381025 a 44 44 0 0,1 80.857252 , 30.883052" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-3_TxtMarrage1">27-Jan-1944</textPath></text>
+<!--- s1-l4-6 -->
+     <path d="M 2699.449872 2375.140074 a 47.5178 47.5178 0 0,1 86.045241 , 40.348197" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2766.829544 2315.451231 a 66 66 0 0,1 -39.166428 , 34.685224" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2699.449872 2375.140074 a 47.5178 47.5178 0 0,1 13.690749 , -17.23002" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2780.739661 2367.092428 a 66 66 0 0,1 -6.625623 , -67.175876" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2844.84353 2149.080906 l -78.013982 166.370327 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-6 -->
+     <path id="S1-L4-6_TxtLine1" d="M 2773.855411 2294.231319 l 163.290384 -348.2283 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-6_TxtLine1">Unknown Person L4-6</textPath></text>
+     <path id="S1-L4-6_TxtLine2" d="M 2787.43642 2300.599693 l 163.290384 -348.2283 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-6_TxtLine2">B: 4-May-1911  --  D: 4-Nov-2002</textPath></text>
+<!--- s1-l4-7 -->
+     <path d="M 2939.639105 1854.281055 a 88 88 0 0,1 -65.330462 , 29.08303" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2912.722743 1921.698009 a 88 88 0 0,1 22.557116 , -62.580486" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2912.72273 1921.698018 a 66 66 0 0,1 -16.989917 , 47.015204" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2844.809601 1890.336928 a 47.4232 47.4232 0 0,1 67.969352 , 34.473216" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2825.382897 1905.09653 a 66 66 0 0,1 48.925766 , -21.732433" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3046.102434 1736.163214 l -106.463324 118.117846 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-7 -->
+     <path id="S1-L4-7_TxtLine1" d="M 2948.593963 1847.333281 l 206.02118 -228.952557 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-7_TxtLine1">Unknown Person L4-7</textPath></text>
+     <path id="S1-L4-7_TxtLine2" d="M 2959.74425 1857.36678 l 206.02118 -228.952557 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-7_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1943</textPath></text>
+     <path id="S1-L3-4_TxtMarrage1" d="M 2985.965817 1667.073195 a 44 44 0 0,1 68.431743 , 50.347303" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-4_TxtMarrage1">29-Jan-1944</textPath></text>
+<!--- s1-l4-8 -->
+     <path d="M 2560.010576 1957.914885 a 47.432 47.432 0 0,1 70.320173 , 63.589794" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2645.944139 1985.315657 a 66 66 0 0,1 -16.689837 , 37.409308" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2649.62326 1950.101625 l -3.679126 35.214036 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2667.092469 1892.877424 a 132 132 0 0,1 -73.806738 , 46.127034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2558.904386 1959.108251 a 66 66 0 0,1 34.38136 , -20.103793" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2649.623252 1950.101633 a 132 132 0 0,1 33.379675 , -74.818616" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2749.644404 1801.588178 l -82.551934 91.289247 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-8 -->
+     <path id="S1-L4-8_TxtLine1" d="M 2674.147047 1887.763822 l 202.30126 -232.245992 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-8_TxtLine1">Salvatore Marano</textPath></text>
+     <path id="S1-L4-8_TxtLine2" d="M 2685.272698 1897.824631 l 202.30126 -232.245992 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-8_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2003</textPath></text>
+<!--- s1-l4-9 -->
+     <path d="M 2362.587985 1849.258689 a 132 132 0 0,1 47.089183 , -73.19663" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2280.579753 1811.136945 a 47.432 47.432 0 0,1 62.663884 , 71.146513" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2427.478334 1760.38327 a 132 132 0 0,1 -75.249132 , 32.39747" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2352.229206 1792.780735 l -35.259158 3.217852 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2279.345462 1812.19732 a 66 66 0 0,1 37.624566 , -16.198735" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2362.587976 1849.258676 a 66 66 0 0,1 -20.552108 , 34.115264" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2501.739002 1694.976536 l -92.061834 81.085519 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-9 -->
+     <path id="S1-L4-9_TxtLine1" d="M 2419.593541 1761.722343 l 272.11377 -239.670293 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-9_TxtLine1">Giueseppe DeStefano</textPath></text>
+     <path id="S1-L4-9_TxtLine2" d="M 2429.507858 1772.978733 l 272.11377 -239.670293 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-9_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1944</textPath></text>
+     <path id="S1-L3-5_TxtMarrage1" d="M 2586.017396 1393.012468 a 44 44 0 0,1 55.081432 , 65.118214" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-5_TxtMarrage1">31-Jan-1944</textPath></text>
+<!--- s1-l4-10 -->
+     <path d="M 2421.601904 1569.25253 a 66 66 0 0,1 -22.370989 , 48.637106" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2421.601902 1569.252529 a 88 88 0 0,1 29.935688 , -64.944179" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2446.644477 1508.603949 a 88 88 0 0,1 -62.870388 , 21.73603" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2336.540508 1546.713015 a 66 66 0 0,1 47.233567 , -16.373051" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2380.662955 1530.243029 a 47.4232 47.4232 0 0,1 33.580571 , 68.41477" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2571.03887 1399.400266 l -119.501272 104.908078 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-10 -->
+     <path id="S1-L4-10_TxtLine1" d="M 2456.762063 1499.50929 l 231.462673 -203.197025 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-10_TxtLine1">Maria Carfagno</textPath></text>
+     <path id="S1-L4-10_TxtLine2" d="M 2466.658022 1510.781822 l 231.462673 -203.197025 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-10_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2004</textPath></text>
+<!--- s1-l4-11 -->
+     <path d="M 1906.534734 1666.218454 a 47.432 47.432 0 0,1 39.124541 , 86.358896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1974.410168 1725.617956 a 66 66 0 0,1 -30.224723 , 27.649108" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2021.214505 1653.789046 a 132 132 0 0,1 -76.623631 , 8.358901" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1905.044354 1666.871633 a 66 66 0 0,1 39.54652 , -4.723685" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1991.828166 1694.793021 l -17.417994 30.824948 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1991.828176 1694.793026 a 132 132 0 0,1 48.922763 , -49.377826" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2021.214512 1653.789047 l 132.354712 -56.730903 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-11 -->
+     <path id="S1-L4-11_TxtLine1" d="M 2021.82743 1648.45244 l 386.151257 -165.515099 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-11_TxtLine1">Unknown Person L4-11</textPath></text>
+     <path id="S1-L4-11_TxtLine2" d="M 2027.736874 1662.239335 l 386.151257 -165.515099 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-11_TxtLine2">B: 4-May-1912  --  D: 12-Mar-1945</textPath></text>
+     <path id="S1-L3-6_TxtMarrage1" d="M 2329.747611 1330.595978 a 44 44 0 0,1 30.029386 , 77.485328" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-6_TxtMarrage1">2-Feb-1944</textPath></text>
+<!--- s1-l4-12 -->
+     <path d="M 2093.417748 1457.776364 l -17.417994 30.824948 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2008.124317 1429.201797 a 47.432 47.432 0 0,1 39.124541 , 86.358896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2075.999772 1488.601321 a 66 66 0 0,1 -30.224723 , 27.649108" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2006.633936 1429.854976 a 66 66 0 0,1 39.387824 , -4.753613" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2124.61322 1415.677416 a 132 132 0 0,1 -78.591454 , 9.423947" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2093.417758 1457.776369 a 132 132 0 0,1 60.449447 , -55.298216" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2124.61322 1415.677428 l 183.592948 -82.837414 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-12 -->
+     <path id="S1-L4-12_TxtLine1" d="M 2130.473495 1410.165154 l 280.745461 -126.672751 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-12_TxtLine1">Unknown Person L4-12</textPath></text>
+     <path id="S1-L4-12_TxtLine2" d="M 2136.642622 1423.837822 l 280.745461 -126.672751 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-12_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2005</textPath></text>
+<!--- s1-l4-13 -->
+     <path d="M 2008.534569 1248.66984 a 66 66 0 0,1 -38.319205 , 32.104912" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2008.534578 1248.669847 a 88 88 0 0,1 50.95568 , -42.762827" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1944.186043 1189.421932 a 47.5178 47.5178 0 0,1 28.898528 , 90.535299" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1941.373794 1190.417893 a 66 66 0 0,1 53.219752 , 5.804068" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2065.689817 1203.916999 a 88 88 0 0,1 -71.096262 , -7.695034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2217.097313 1155.316243 l -151.407498 48.60075 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-13 -->
+     <path id="S1-L4-13_TxtLine1" d="M 2066.161686 1200.99265 l 293.261987 -94.135048 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-13_TxtLine1">Unknown Person L4-13</textPath></text>
+     <path id="S1-L4-13_TxtLine2" d="M 2070.746185 1215.274889 l 293.261987 -94.135048 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-13_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1946</textPath></text>
+     <path id="S1-L3-7_TxtMarrage1" d="M 2201.842892 1065.112917 a 44 44 0 0,1 26.959484 , 81.555879" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-7_TxtMarrage1">4-Feb-1944</textPath></text>
+<!--- s1-l4-14 -->
+     <path d="M 1718.443835 1178.34823 a 66 66 0 0,1 -33.231537 , 23.951449" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1739.32419 1149.754969 a 132 132 0 0,1 66.463075 , -47.902898" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1712.704349 1115.87705 a 47.432 47.432 0 0,1 15.20543 , 49.508653" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1783.189136 1109.065302 a 132 132 0 0,1 -86.990889 , 2.779034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1656.370727 1111.942821 a 66 66 0 0,1 39.827512 , -0.098484" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1656.342249 1111.853612 a 47.5178 47.5178 0 0,1 28.898528 , 90.535299" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1927.924715 1062.866259 l -144.735577 46.19906 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1739.324197 1149.754979 l -20.880354 28.593268 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-14 -->
+     <path id="S1-L4-14_TxtLine1" d="M 1794.259605 1101.539549 l 373.306781 -119.158124 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-14_TxtLine1">Unknown Person L4-14</textPath></text>
+     <path id="S1-L4-14_TxtLine2" d="M 1798.820821 1115.829241 l 373.306781 -119.158124 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-14_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2006</textPath></text>
+<!--- s1-l4-15 -->
+     <path d="M 2101.372094 883.924648 a 47.4232 47.4232 0 0,1 -1.406158 , 94.833855" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2136.811502 962.418826 a 88 88 0 0,1 65.25576 , -30.332309" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2205.73568 932.035531 a 88 88 0 0,1 -68.496063 , -31.261204" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2367.578963 929.786169 l -165.511698 2.300342 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-15 -->
+     <path id="S1-L4-15_TxtLine1" d="M 2213.22093 928.699538 l 307.970256 -4.280287 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-15_TxtLine1">Unknown Person L4-15</textPath></text>
+     <path id="S1-L4-15_TxtLine2" d="M 2213.429385 943.698089 l 307.970256 -4.280287 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-15_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1993</textPath></text>
+     <path id="S1-L3-8_TxtMarrage1" d="M 2374.40947 838.367866 a 44 44 0 0,1 7.265754 , 86.476933" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L3-8_TxtMarrage1">6-Feb-1944</textPath></text>
+<!--- s1-l4-16 -->
+     <path d="M 1845.661852 724.367473 a 47.432 47.432 0 0,1 1.16305 , 94.801034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1966.152987 758.693706 a 132 132 0 0,1 -84.002312 , -22.776071" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1912.308214 784.780546 a 132 132 0 0,1 77.564406 , -26.377847" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1912.30822 784.780557 l -28.327838 21.239042 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1883.980373 806.019615 a 66 66 0 0,1 -38.782203 , 13.188923" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 1844.034625 724.367385 a 66 66 0 0,1 38.116033 , 11.550257" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 2118.071595 756.829913 l -151.918618 1.863791 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L4-16 -->
+     <path id="S1-L4-16_TxtLine1" d="M 1967.970285 756.290999 l 391.833513 -4.80714 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-16_TxtLine1">Unknown Person L4-16</textPath></text>
+     <path id="S1-L4-16_TxtLine2" d="M 1968.154296 771.289871 l 391.833513 -4.80714 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L4-16_TxtLine2">B: 4-May-1913  --  D: 12-Mar-1934</textPath></text>
+<!--- s1-l5-1 -->
+     <path d="M 3711.355035 2455.703655 l -4.736206 186.736096 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-1T -->
+     <path d="M 3706.066013 2702.631619 l 23.425072 -59.6117 l -43.798106 -1.110868 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-1 -->
+     <path id="S1-L5-1_TxtLine1" d="M 3706.311578 2638.197613 l 8.969633 -353.64867 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-1_TxtLine1">Unknown Person L5-1</textPath></text>
+     <path id="S1-L5-1_TxtLine2" d="M 3721.306755 2638.577937 l 8.969633 -353.64867 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-1_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1994</textPath></text>
+     <path id="S1-L4-1_TxtMarrage1" d="M 3621.784656 2441.91511 a 44 44 0 0,1 85.488883 , 4.922144" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-1_TxtMarrage1">8-Feb-1944</textPath></text>
+<!--- s1-l5-2 -->
+     <path d="M 3616.537235 2453.298769 l -4.989756 196.733594 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-2T -->
+     <path d="M 3610.994641 2710.224232 l 23.425072 -59.6117 l -43.798106 -1.110846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-2 -->
+     <path id="S1-L5-2_TxtLine1" d="M 3609.716353 2641.235807 l 9.222457 -363.616864 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-2_TxtLine1">Unknown Person L5-2</textPath></text>
+     <path id="S1-L5-2_TxtLine2" d="M 3624.711531 2641.616132 l 9.222457 -363.616864 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-2_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1935</textPath></text>
+<!--- s1-l5-3 -->
+     <path d="M 3556.079094 2211.294363 l -4.989775 196.733671 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-3T -->
+     <path d="M 3573.827023 2408.604743 l -23.425094 59.6117 l -20.373034 -60.722596 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-3 -->
+     <path id="S1-L5-3_TxtLine1" d="M 3550.096679 2397.70987 l 9.219836 -363.513497 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-3_TxtLine1">Unknown Person L5-3</textPath></text>
+     <path id="S1-L5-3_TxtLine2" d="M 3565.091857 2398.090195 l 9.219836 -363.513497 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-3_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1995</textPath></text>
+     <path id="S1-L4-2_TxtMarrage1" d="M 3463.651206 2200.698123 a 44 44 0 0,1 87.911006 , 3.60847" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-2_TxtMarrage1">10-Feb-1944</textPath></text>
+<!--- s1-l5-4 -->
+     <path d="M 3461.261316 2208.889499 l -4.989798 196.734385 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-4T -->
+     <path d="M 3479.0092 2406.20057 l -23.425094 59.6117 l -20.373034 -60.722596 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-4 -->
+     <path id="S1-L5-4_TxtLine1" d="M 3456.104605 2393.45068 l 9.219111 -363.484907 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-4_TxtLine1">Unknown Person L5-4</textPath></text>
+     <path id="S1-L5-4_TxtLine2" d="M 3471.099782 2393.831004 l 9.219111 -363.484907 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-4_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1936</textPath></text>
+<!--- s1-l5-5 -->
+     <path d="M 3323.467503 2638.648731 l -62.253521 186.743232 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-5T -->
+     <path d="M 3284.081177 2833.022311 l -39.830318 50.15817 l -1.729244 -64.02572 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-5 -->
+     <path id="S1-L5-5_TxtLine1" d="M 3262.50234 2818.056096 l 118.813407 -357.046079 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-5_TxtLine1">Unknown Person L5-5</textPath></text>
+     <path id="S1-L5-5_TxtLine2" d="M 3276.735003 2822.792267 l 118.813407 -357.046079 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-5_TxtLine2">B: 4-May-1914  --  D: 4-Nov-1996</textPath></text>
+     <path id="S1-L4-3_TxtMarrage1" d="M 3243.392527 2597.09068 a 44 44 0 0,1 79.016286 , 29.078747" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-3_TxtMarrage1">12-Feb-1944</textPath></text>
+<!--- s1-l5-6 -->
+     <path d="M 3233.495907 2608.626893 l -62.233347 186.681136 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-6T -->
+     <path d="M 3154.299438 2853.096528 l 39.830296 -50.15815 l -41.559562 -13.867656 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-6 -->
+     <path id="S1-L5-6_TxtLine1" d="M 3173.709009 2787.889897 l 118.785924 -356.955526 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-6_TxtLine1">Unknown Person L5-6</textPath></text>
+     <path id="S1-L5-6_TxtLine2" d="M 3187.94164 2792.626162 l 118.785924 -356.955526 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-6_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1937</textPath></text>
+<!--- s1-l5-7 -->
+     <path d="M 3188.946223 2538.487307 l 60.651443 -187.218647 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-7T -->
+     <path d="M 3209.726015 2545.421135 l -39.830318 50.15815 l -1.729244 -64.025808 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-7 -->
+     <path id="S1-L5-7_TxtLine1" d="M 3189.965786 2529.104494 l 115.966085 -348.489592 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-7_TxtLine1">Unknown Person L5-7</textPath></text>
+     <path id="S1-L5-7_TxtLine2" d="M 3204.198449 2533.840665 l 115.966085 -348.489592 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-7_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1997</textPath></text>
+     <path id="S1-L4-4_TxtMarrage1" d="M 3166.051656 2315.293449 a 44 44 0 0,1 82.125835 , 26.249448" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-4_TxtMarrage1">14-Feb-1944</textPath></text>
+<!--- s1-l5-8 -->
+     <path d="M 3099.935113 2507.68282 l 59.332731 -185.334062 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-8T -->
+     <path d="M 3080.884587 2564.7748 l 39.830296 -50.15815 l -41.559562 -13.867656 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-8 -->
+     <path id="S1-L5-8_TxtLine1" d="M 3099.342612 2500.417766 l 111.654975 -348.769895 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-8_TxtLine1">Unknown Person L5-8</textPath></text>
+     <path id="S1-L5-8_TxtLine2" d="M 3113.628397 2504.991208 l 111.654975 -348.769895 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-8_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1938</textPath></text>
+<!--- s1-l5-9 -->
+     <path d="M 2950.116291 2444.494772 l 83.571169 -178.080364 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-9T -->
+     <path d="M 2969.950083 2453.795206 l -45.386484 45.19248 l 5.7189 -63.793334 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-9 -->
+     <path id="S1-L5-9_TxtLine1" d="M 2951.472909 2434.791451 l 159.089942 -341.446109 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-9_TxtLine1">Unknown Person L5-9</textPath></text>
+     <path id="S1-L5-9_TxtLine2" d="M 2965.069493 2441.126506 l 159.089942 -341.446109 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-9_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1998</textPath></text>
+     <path id="S1-L4-5_TxtMarrage1" d="M 2958.641019 2216.027835 a 44 44 0 0,1 71.047877 , 50.530247" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-5_TxtMarrage1">16-Feb-1944</textPath></text>
+<!--- s1-l5-10 -->
+     <path d="M 2861.334517 2410.815817 l 86.350169 -184.840027 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-10T -->
+     <path d="M 2835.781825 2465.308717 l 45.386506 -45.19248 l -39.667606 -18.600846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-10 -->
+     <path id="S1-L5-10_TxtLine1" d="M 2863.818148 2400.30004 l 161.408088 -348.208857 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-10_TxtLine1">Unknown Person L5-10</textPath></text>
+     <path id="S1-L5-10_TxtLine2" d="M 2877.427165 2406.608339 l 161.408088 -348.208857 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-10_TxtLine2">B: 4-May-1915  --  D: 12-Mar-1939</textPath></text>
+<!--- s1-l5-11 -->
+     <path d="M 2698.915538 2600.165606 l 86.57958 -184.677337 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-11T -->
+     <path d="M 2673.362846 2654.658528 l 45.386506 -45.19248 l -39.667606 -18.600846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-11 -->
+     <path id="S1-L5-11_TxtLine1" d="M 2702.169215 2592.0422 l 162.842054 -347.533206 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-11_TxtLine1">Unknown Person L5-11</textPath></text>
+     <path id="S1-L5-11_TxtLine2" d="M 2715.75952 2598.390712 l 162.842054 -347.533206 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-11_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1999</textPath></text>
+     <path id="S1-L4-6_TxtMarrage1" d="M 2703.954805 2374.040046 a 44 44 0 0,1 79.456536 , 37.404911" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-6_TxtMarrage1">18-Feb-1944</textPath></text>
+<!--- s1-l5-12 -->
+     <path d="M 2613.040139 2559.896104 l 86.409745 -184.756033 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-12T -->
+     <path d="M 2632.873931 2569.196516 l -45.386484 45.19248 l 5.7189 -63.793334 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-12 -->
+     <path id="S1-L5-12_TxtLine1" d="M 2615.58862 2551.492792 l 162.788049 -347.417598 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-12_TxtLine1">Unknown Person L5-12</textPath></text>
+     <path id="S1-L5-12_TxtLine2" d="M 2629.178925 2557.841304 l 162.788049 -347.417598 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-12_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1940</textPath></text>
+<!--- s1-l5-13 -->
+     <path d="M 2895.732808 1968.713224 l -130.018142 143.974716 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-13T -->
+     <path d="M 2726.07742 2157.99188 l 56.656666 -29.87168 l -32.456292 -29.4294 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-13 -->
+     <path id="S1-L5-13_TxtLine1" d="M 2772.425013 2102.932323 l 241.76853 -268.678799 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-13_TxtLine1">Unknown Person L5-13</textPath></text>
+     <path id="S1-L5-13_TxtLine2" d="M 2783.5753 2112.965822 l 241.76853 -268.678799 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-13_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2000</textPath></text>
+     <path id="S1-L4-7_TxtMarrage1" d="M 2841.679833 1896.098766 a 44 44 0 0,1 62.59741 , 58.394555" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-7_TxtMarrage1">20-Feb-1944</textPath></text>
+<!--- s1-l5-14 -->
+     <path d="M 2825.38288 1905.096528 l -130.081839 143.91516 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-14T -->
+     <path d="M 2655.663817 2094.31565 l 56.656666 -29.87168 l -32.456292 -29.4294 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-14 -->
+     <path id="S1-L5-14_TxtLine1" d="M 2703.242001 2036.800466 l 242.144176 -268.215829 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-14_TxtLine1">Unknown Person L5-14</textPath></text>
+     <path id="S1-L5-14_TxtLine2" d="M 2714.375921 2046.852124 l 242.144176 -268.215829 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-14_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1941</textPath></text>
+<!--- s1-l5-15 -->
+     <path d="M 2629.554618 2022.734427 l -130.083665 143.916957 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-15T -->
+     <path d="M 2516.420413 2182.02021 l -56.656666 29.87166 l 24.200396 -59.30122 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-15 -->
+     <path id="S1-L5-15_TxtLine1" d="M 2507.190131 2157.09895 l 242.011494 -268.068862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-15_TxtLine1">Unknown Person L5-15</textPath></text>
+     <path id="S1-L5-15_TxtLine2" d="M 2518.324051 2167.150608 l 242.011494 -268.068862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-15_TxtLine2">B: 4-May-1916  --  D: 4-Nov-2001</textPath></text>
+     <path id="S1-L4-8_TxtMarrage1" d="M 2572.482866 1952.581353 a 44 44 0 0,1 59.197616 , 61.185946" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-8_TxtMarrage1">22-Feb-1944</textPath></text>
+<!--- s1-l5-16 -->
+     <path d="M 2558.904368 1959.108249 l -130.1154 143.88691 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-16T -->
+     <path d="M 2445.94525 2118.591443 l -56.696904 29.79521 l 24.280344 -59.26844 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-16 -->
+     <path id="S1-L5-16_TxtLine1" d="M 2435.121307 2093.899159 l 241.955896 -267.56464 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-16_TxtLine1">Unknown Person L5-16</textPath></text>
+     <path id="S1-L5-16_TxtLine2" d="M 2446.246958 2103.959969 l 241.955896 -267.56464 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-16_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1942</textPath></text>
+<!--- s1-l5-17 -->
+     <path d="M 2342.03588 1883.373941 l -145.583402 128.225851 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-17T -->
+     <path d="M 2151.260672 2051.350536 l 59.674054 -23.26594 l -28.91614 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-17 -->
+     <path id="S1-L5-17_TxtLine1" d="M 2203.628355 2005.060774 l 270.390192 -238.152213 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-17_TxtLine1">Unknown Person L5-17</textPath></text>
+     <path id="S1-L5-17_TxtLine2" d="M 2213.542672 2016.317164 l 270.390192 -238.152213 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-17_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2002</textPath></text>
+     <path id="S1-L4-9_TxtMarrage1" d="M 2288.473147 1809.806945 a 44 44 0 0,1 61.805759 , 57.182135" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-9_TxtMarrage1">24-Feb-1944</textPath></text>
+<!--- s1-l5-18 -->
+     <path d="M 2279.339928 1811.896909 l -153.086191 134.834089 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-18T -->
+     <path d="M 2081.213159 1986.653848 l 59.674054 -23.26592 l -28.91614 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-18 -->
+     <path id="S1-L5-18_TxtLine1" d="M 2134.405908 1937.171094 l 277.783839 -244.664333 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-18_TxtLine1">Unknown Person L5-18</textPath></text>
+     <path id="S1-L5-18_TxtLine2" d="M 2144.320225 1948.427484 l 277.783839 -244.664333 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-18_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1943</textPath></text>
+<!--- s1-l5-19 -->
+     <path d="M 2399.230904 1617.889636 l -142.281528 125.317651 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-19T -->
+     <path d="M 2211.757593 1782.958031 l 59.674032 -23.26594 l -28.916118 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-19 -->
+     <path id="S1-L5-19_TxtLine1" d="M 2259.618994 1738.466263 l 267.088318 -235.244013 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-19_TxtLine1">Pasquale DeStefano</textPath></text>
+     <path id="S1-L5-19_TxtLine2" d="M 2269.533311 1749.722653 l 267.088318 -235.244013 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-19_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2003</textPath></text>
+     <path id="S1-L4-10_TxtMarrage1" d="M 2360.437303 1534.465997 a 44 44 0 0,1 48.061972 , 67.160694" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-10_TxtMarrage1">26-Feb-1944</textPath></text>
+<!--- s1-l5-20 -->
+     <path d="M 2336.540518 1546.713014 l -123.969663 109.189054 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-20T -->
+     <path d="M 2227.053125 1672.386866 l -59.674054 23.26594 l 30.757914 -56.180476 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-20 -->
+     <path id="S1-L5-20_TxtLine1" d="M 2216.876348 1648.850561 l 252.195363 -222.12671 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-20_TxtLine1">Dorotea Carfagno</textPath></text>
+     <path id="S1-L5-20_TxtLine2" d="M 2226.790665 1660.10695 l 252.195363 -222.12671 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-20_TxtLine2">B: 4-May-1917  --  D: 12-Mar-1944</textPath></text>
+<!--- s1-l5-21 -->
+     <path d="M 1944.18545 1753.267063 l -185.820075 84.185022 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-21T -->
+     <path d="M 1703.542651 1862.289293 l 63.862722 -4.88336 l -18.079996 -39.90767 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-21 -->
+     <path id="S1-L5-21_TxtLine1" d="M 1763.822227 1831.621012 l 336.872335 -152.61862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-21_TxtLine1">Unknown Person L5-21</textPath></text>
+     <path id="S1-L5-21_TxtLine2" d="M 1770.012285 1845.284217 l 336.872335 -152.61862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-21_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2004</textPath></text>
+     <path id="S1-L4-11_TxtMarrage1" d="M 1926.01975 1666.091792 a 44 44 0 0,1 29.292975 , 75.49969" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-11_TxtMarrage1">28-Feb-1944</textPath></text>
+<!--- s1-l5-22 -->
+     <path d="M 1905.044348 1666.871633 l -206.996145 93.778754 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-22T -->
+     <path d="M 1707.088201 1780.604234 l -63.862722 4.88336 l 45.782726 -44.791054 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-22 -->
+     <path id="S1-L5-22_TxtLine1" d="M 1702.644678 1754.535823 l 352.320683 -159.61743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-22_TxtLine1">Unknown Person L5-22</textPath></text>
+     <path id="S1-L5-22_TxtLine2" d="M 1708.834737 1768.199028 l 352.320683 -159.61743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-22_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1945</textPath></text>
+<!--- s1-l5-23 -->
+     <path d="M 2045.775032 1516.250428 l -202.751336 91.85566 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-23T -->
+     <path d="M 1788.200972 1632.943297 l 63.862744 -4.88338 l -18.080018 -39.90756 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-23 -->
+     <path id="S1-L5-23_TxtLine1" d="M 1849.898513 1601.930737 l 353.803596 -160.289258 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-23_TxtLine1">Unknown Person L5-23</textPath></text>
+     <path id="S1-L5-23_TxtLine2" d="M 1856.088572 1615.593943 l 353.803596 -160.289258 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-23_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2005</textPath></text>
+     <path id="S1-L4-12_TxtMarrage1" d="M 2019.419149 1429.579042 a 44 44 0 0,1 34.975637 , 77.256901" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-12_TxtMarrage1">1-Mar-1944</textPath></text>
+<!--- s1-l5-24 -->
+     <path d="M 2006.633952 1429.854976 l -185.718367 84.138935 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-24T -->
+     <path d="M 1830.422006 1535.229191 l -63.862722 4.88336 l 45.782704 -44.7909 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-24 -->
+     <path id="S1-L5-24_TxtLine1" d="M 1829.693227 1509.88029 l 331.042883 -149.977611 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-24_TxtLine1">Unknown Person L5-24</textPath></text>
+     <path id="S1-L5-24_TxtLine2" d="M 1835.883286 1523.543495 l 331.042883 -149.977611 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-24_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1946</textPath></text>
+<!--- s1-l5-25 -->
+     <path d="M 1973.056087 1279.867989 l -201.895688 64.444373 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-25T -->
+     <path d="M 1778.320189 1363.983772 l -64.04915 0 l 45.782704 -44.7909 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-25 -->
+     <path id="S1-L5-25_TxtLine1" d="M 1775.560311 1338.341706 l 371.317274 -118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-25_TxtLine1">Unknown Person L5-25</textPath></text>
+     <path id="S1-L5-25_TxtLine2" d="M 1780.121527 1352.631398 l 371.317274 -118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-25_TxtLine2">B: 4-May-1918  --  D: 4-Nov-2006</textPath></text>
+     <path id="S1-L4-13_TxtMarrage1" d="M 1956.340387 1190.749471 a 44 44 0 0,1 35.149272 , 73.207697" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-13_TxtMarrage1">3-Mar-1944</textPath></text>
+<!--- s1-l5-26 -->
+     <path d="M 1944.214527 1189.511151 l -201.90792 64.448245 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-26T -->
+     <path d="M 1685.417247 1273.630784 l 64.04915 0 l -14.984618 -41.16992 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-26 -->
+     <path id="S1-L5-26_TxtLine1" d="M 1748.251711 1246.553306 l 371.317274 -118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-26_TxtLine1">Unknown Person L5-26</textPath></text>
+     <path id="S1-L5-26_TxtLine2" d="M 1752.812927 1260.842998 l 371.317274 -118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-26_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1947</textPath></text>
+<!--- s1-l5-27 -->
+     <path d="M 1685.212315 1202.299691 l -196.178882 62.619552 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-27T -->
+     <path d="M 1432.14405 1284.590631 l 64.049172 0 l -14.984662 -41.16992 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-27 -->
+     <path id="S1-L5-27_TxtLine1" d="M 1493.69488 1259.148523 l 368.47534 -117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-27_TxtLine1">Unknown Person L5-27</textPath></text>
+     <path id="S1-L5-27_TxtLine2" d="M 1498.256096 1273.438215 l 368.47534 -117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-27_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2007</textPath></text>
+     <path id="S1-L4-14_TxtMarrage1" d="M 1682.545875 1108.299116 a 44 44 0 0,1 24.739891 , 80.230063" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-14_TxtMarrage1">5-Mar-1944</textPath></text>
+<!--- s1-l5-28 -->
+     <path d="M 1656.370733 1111.942831 l -196.225258 62.634358 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-28T -->
+     <path d="M 1403.256114 1194.248577 l 64.049172 0 l -14.984662 -41.16992 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-28 -->
+     <path id="S1-L5-28_TxtLine1" d="M 1464.31608 1170.466523 l 368.47534 -117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-28_TxtLine1">Unknown Person L5-28</textPath></text>
+     <path id="S1-L5-28_TxtLine2" d="M 1468.877296 1184.756215 l 368.47534 -117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-28_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1994</textPath></text>
+<!--- s1-l5-29 -->
+     <path d="M 2099.965947 978.758499 l -203.984931 2.502556 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-29T -->
+     <path d="M 1835.794494 981.16551 l 60.186522 -21.9061 l 0 43.81212 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-29 -->
+     <path id="S1-L5-29_TxtLine1" d="M 1902.250331 977.853874 l 363.213066 -4.456015 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-29_TxtLine1">Unknown Person L5-29</textPath></text>
+     <path id="S1-L5-29_TxtLine2" d="M 1902.434342 992.852746 l 363.213066 -4.456015 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-29_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1935</textPath></text>
+     <path id="S1-L4-15_TxtMarrage1" d="M 2108.546894 888.000749 a 44 44 0 0,1 0.424742 , 86.614822" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-15_TxtMarrage1">7-Mar-1944</textPath></text>
+<!--- s1-l5-30 -->
+     <path d="M 2101.372099 883.924661 l -203.985389 2.502559 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-30T -->
+     <path d="M 1835.878296 886.347888 l 60.186522 -21.9061 l 0 43.81212 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-30 -->
+     <path id="S1-L5-30_TxtLine1" d="M 1903.242425 881.841829 l 361.807372 -4.43877 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-30_TxtLine1">Unknown Person L5-30</textPath></text>
+     <path id="S1-L5-30_TxtLine2" d="M 1903.426436 896.8407 l 361.807372 -4.43877 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-30_TxtLine2">B: 4-May-1919  --  D: 4-Nov-1995</textPath></text>
+<!--- s1-l5-31 -->
+     <path d="M 1845.198166 819.208533 l -204.324629 2.506717 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-31T -->
+     <path d="M 1581.057913 821.844257 l 60.085498 21.86934 l 0.101046 -43.77538 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-31 -->
+     <path id="S1-L5-31_TxtLine1" d="M 1647.84364 819.282272 l 371.169868 -4.553632 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-31_TxtLine1">Unknown Person L5-31</textPath></text>
+     <path id="S1-L5-31_TxtLine2" d="M 1648.027651 834.281143 l 371.169868 -4.553632 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-31_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1936</textPath></text>
+     <path id="S1-L4-16_TxtMarrage1" d="M 1846.668242 727.835818 a 44 44 0 0,1 4.682227 , 87.433764" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L4-16_TxtMarrage1">9-Mar-1944</textPath></text>
+<!--- s1-l5-32 -->
+     <path d="M 1844.03463 724.367391 l -204.30292 2.506447 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S1-L5-32T -->
+     <path d="M 1579.916108 727.002846 l 60.085476 21.86934 l 0.101046 -43.77538 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S1-L5-32 -->
+     <path id="S1-L5-32_TxtLine1" d="M 1646.226635 724.509809 l 371.099473 -4.552768 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S1-L5-32_TxtLine1">Unknown Person L5-32</textPath></text>
+     <path id="S1-L5-32_TxtLine2" d="M 1646.410646 739.50868 l 371.099473 -4.552768 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S1-L5-32_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1996</textPath></text>
+<!--- s2-L0-0 -->
+     <path d="M 4062.732239 813.149767 a 110 110 0 0,0 -146.795212 , 126.858893" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3917.275656 852.838376 a 110 110 0 0,0 -2.61957 , 87.682294" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3917.275647 852.838377 a 88 88 0 0,0 8.381945 , -37.482867" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3925.657592 815.35551 l 0 -260.05032 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3925.258446 755.025372 l 38.228762 67.462582 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3967.96467 776.700146 l 110.534116 42.513768 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3925.657592 715.099464 a 66 66 0 0,0 42.307072 , 61.600691" stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L0-0 -->
+     <path id="S2-L0-0_TxtLine1" d="M 3927.1026 541.2374 l 0 358.4 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L0-0_TxtLine1">Gertrude Ann Soos</textPath></text>
+     <path id="S2-L0-0_TxtLine2" d="M 3912.1026 541.2374 l 0 358.4 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L0-0_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1937</textPath></text>
+<!--- s2-l1-1 -->
+     <path d="M 3961.195982 1224.840186 a 110 110 0 0,0 -14.669738 , 82.882131" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3972.103147 1207.740102 a 110 110 0 0,0 9.401576 , -99.982645" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4074.036652 1177.866627 a 110 110 0 0,0 -104.874192 , 34.483838" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3981.504724 1107.757455 a 110 110 0 0,0 75.730258 , 65.95337" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4057.234961 1173.710827 l 19.689142 4.869986 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4144.68339 1228.51405 a 110 110 0 0,0 -67.759287 , -49.933234" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3972.103145 1207.740119 l -10.90716 17.10005 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3914.656074 940.520682 l 66.848639 167.236785 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L1-1 -->
+     <path id="S2-L1-1_TxtLine1" d="M 3923.162273 953.683249 l 138.707378 347.007486 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L1-1_TxtLine1">Joseph Steven Soos Sr.</textPath></text>
+     <path id="S2-L1-1_TxtLine2" d="M 3909.2338 959.2508 l 138.707378 347.007486 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L1-1_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1997</textPath></text>
+     <path id="S2-L0-0_TxtMarrage1" d="M 3920.849279 889.99752 a 105.6 105.6 0 0,1 103.092982 , -79.777625" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L0-0_TxtMarrage1">9-Jun-1956</textPath></text>
+<!--- s2-l1-2 -->
+     <path d="M 4261.099193 956.21182 a 110 110 0 0,0 50.815898 , 67.099876" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4255.971917 936.588126 a 110 110 0 0,0 -66.938998 , -74.860467" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4189.032907 861.727661 a 110 110 0 0,0 99.851016 , -10.709502" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4293.455394 848.017398 a 110 110 0 0,0 -33.108123 , 105.316587" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4226.591412 874.958834 l 35.230338 15.741264 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4388.522782 824.134721 a 110 110 0 0,0 -82.683009 , 15.753375" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4288.883928 851.01817 l 16.95584 -11.130064 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4078.498786 819.213914 l 110.534138 42.513746 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4255.971906 936.588138 l 5.127298 19.623692 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L1-2 -->
+     <path id="S2-L1-2_TxtLine1" d="M 4092.679956 820.570043 l 287.469893 110.566997 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L1-2_TxtLine1">Anna J Szabo</textPath></text>
+     <path id="S2-L1-2_TxtLine2" d="M 4087.2952 834.5702 l 287.469893 110.566997 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L1-2_TxtLine2">B: 4-May-1920  --  D: 12-Mar-1938</textPath></text>
+<!--- s2-l2-1 -->
+     <path d="M 3986.614274 1534.513431 a 110 110 0 0,0 -0.112858 , 61.438362" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3991.49247 1625.442353 a 132 132 0 0,0 -4.991044 , -29.490555" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3986.614283 1534.513438 a 110 110 0 0,0 -5.391874 , -76.355045" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4031.582719 1496.169931 l 23.762662 3.547368 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3976.881262 1445.130187 a 66 66 0 0,0 54.701469 , 51.039729" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4055.716332 1499.772667 a 66 66 0 0,0 -71.591307 , 42.233237" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4107.580687 1542.311821 a 66 66 0 0,0 -52.235297 , -42.594528" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3946.526231 1307.722309 l 30.355028 137.407886 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L2-1 -->
+     <path id="S2-L2-1_TxtLine1" d="M 3946.448248 1303.812236 l 66.438948 300.748842 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L2-1_TxtLine1">Stephan Soos</textPath></text>
+     <path id="S2-L2-1_TxtLine2" d="M 3931.801389 1307.047899 l 66.438948 300.748842 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L2-1_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1998</textPath></text>
+     <path id="S2-L1-1_TxtMarrage1" d="M 3959.627984 1233.112391 a 105.6 105.6 0 0,1 136.979669 , -43.012884" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L1-1_TxtMarrage1">16-Jun-1956</textPath></text>
+<!--- s2-l2-2 -->
+     <path d="M 4314.402498 1464.881721 a 110 110 0 0,0 -42.431903 , -44.432181" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4223.244462 1361.416263 a 110 110 0 0,0 48.726148 , 59.033276" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4212.961907 1423.668226 a 66 66 0 0,0 4.44708 , -74.68285" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4212.961917 1423.668227 l -14.769986 18.94981 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4278.938628 1424.161697 a 66 66 0 0,0 -80.97727 , 18.752153" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4198.191918 1442.618039 a 66 66 0 0,0 -8.481794 , 66.864634" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4314.402495 1464.881721 a 132 132 0 0,0 16.712326 , 24.805273" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4144.683377 1228.514059 l 72.72562 120.471318 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L2-2 -->
+     <path id="S2-L2-2_TxtLine1" d="M 4154.164311 1236.650784 l 159.176767 263.679269 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L2-2_TxtLine1">Anna Karacsony</textPath></text>
+     <path id="S2-L2-2_TxtLine2" d="M 4141.322789 1244.402899 l 159.176767 263.679269 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L2-2_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1939</textPath></text>
+<!--- s2-l2-3 -->
+     <path d="M 4575.505972 1206.308523 a 132 132 0 0,0 -25.021905 , -16.386203" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4505.500267 1148.075648 a 110 110 0 0,0 44.983791 , 41.846668" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4505.500279 1148.075664 a 110 110 0 0,0 -59.666024 , -47.949252" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4507.946288 1089.0299 l 18.754868 -15.016782 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4433.328048 1094.454175 a 66 66 0 0,0 74.618241 , -5.424267" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4526.993908 1073.7787 a 66 66 0 0,0 -17.690587 , 81.21579" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4593.449036 1064.656834 a 66 66 0 0,0 -66.747882 , 9.356298" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4311.91509 1023.311698 l 121.412962 71.142456 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L2-3 -->
+     <path id="S2-L2-3_TxtLine1" d="M 4315.012761 1025.860905 l 265.740237 155.711675 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L2-3_TxtLine1">Mihaly Szabo</textPath></text>
+     <path id="S2-L2-3_TxtLine2" d="M 4307.4294 1038.8028 l 265.740237 155.711675 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L2-3_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1999</textPath></text>
+     <path id="S2-L1-2_TxtMarrage1" d="M 4264.042651 943.692194 a 105.6 105.6 0 0,1 62.655399 , -116.965892" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L1-2_TxtMarrage1">13-Jun-1956</textPath></text>
+<!--- s2-l2-4 -->
+     <path d="M 4581.925706 930.431414 a 66 66 0 0,0 43.274618 , 51.673277" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4623.278459 858.663619 a 66 66 0 0,0 -41.292517 , 72.137989" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4677.250825 860.333685 a 110 110 0 0,0 -61.431621 , 0.917052" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4677.250809 860.333691 a 132 132 0 0,0 29.55336 , 4.604597" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4578.067596 906.717222 a 66 66 0 0,0 -51.751376 , -54.028693" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4539.400107 856.858774 a 110 110 0 0,0 76.419081 , 4.391955" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4388.522764 824.134742 l 137.793458 28.5538 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4578.067592 906.71722 l 3.858118 23.714196 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L2-4 -->
+     <path id="S2-L2-4_TxtLine1" d="M 4407.288464 826.090642 l 301.592735 62.496577 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L2-4_TxtLine1">Anna Csallokozi</textPath></text>
+     <path id="S2-L2-4_TxtLine2" d="M 4404.2448 840.7786 l 301.592735 62.496577 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L2-4_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1940</textPath></text>
+<!--- s2-l3-1 -->
+     <path d="M 3928.687206 2188.925188 a 88 88 0 0,0 -29.548317 , 68.039346" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3928.687185 2188.925202 a 154 154 0 0,0 50.783412 , -132.471666" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3986.539655 1970.778586 a 66 66 0 0,0 -11.621805 , 45.421595" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4004.995722 1874.729622 a 110 110 0 0,0 28.882667 , 68.522285" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3986.539638 1970.778591 a 110 110 0 0,0 19.905546 , -69.289871" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4063.459121 1980.897121 a 47.52 47.52 0 0,0 -75.461353 , -12.241174" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3974.917847 2016.200189 l 4.552768 40.253334 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4068.814365 2005.21461 a 66 66 0 0,0 -17.40218 , -42.902232" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3991.492471 1625.442349 l 14.952718 276.046386 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4033.878397 1943.251907 l 17.53378 19.06047 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-1 -->
+     <path id="S2-L3-1_TxtLine1" d="M 3991.041231 1590.513977 l 16.659146 307.549139 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-1_TxtLine1">Unknown Person L3-1</textPath></text>
+     <path id="S2-L3-1_TxtLine2" d="M 3976.063189 1591.325299 l 16.659146 307.549139 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-1_TxtLine2">B: 4-May-1921  --  D: 4-Nov-2000</textPath></text>
+     <path id="S2-L2-1_TxtMarrage1" d="M 3982.898837 1555.443897 a 63.8 63.8 0 0,1 91.061462 , -47.727591" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L2-1_TxtMarrage1">15-Jun-1956</textPath></text>
+<!--- s2-l3-2 -->
+     <path d="M 4216.002369 2369.383798 a 154 154 0 0,0 9.833452 , -141.530917" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4216.002356 2369.383806 a 88 88 0 0,0 -8.364416 , 73.705442" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4295.069216 2149.078035 a 47.52 47.52 0 0,0 -88.64641 , 34.027419" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4206.309961 2145.542274 a 110 110 0 0,0 -6.935399 , -99.909591" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4201.206571 2048.793168 a 198 198 0 0,0 72.833012 , 74.398707" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4182.229657 1877.783308 a 198 198 0 0,0 17.14491 , 167.849376" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4182.229652 1877.783304 a 198 198 0 0,0 -0.834097 , -133.768703" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4107.580685 1542.311829 l 76.414884 201.702776 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4206.422813 2183.105433 l 19.412998 44.74745 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-2 -->
+     <path id="S2-L3-2_TxtLine1" d="M 4104.640071 1530.942002 l 109.227006 287.981703 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-2_TxtLine1">Unknown Person L3-2</textPath></text>
+     <path id="S2-L3-2_TxtLine2" d="M 4090.614989 1536.261499 l 109.227006 287.981703 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-2_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1941</textPath></text>
+<!--- s2-l3-3 -->
+     <path d="M 4576.589382 2087.648093 a 154 154 0 0,0 104.68282 , 95.755963" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4738.137918 2231.035421 a 88 88 0 0,0 -56.865706 , -47.631367" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4533.997573 2014.557512 a 47.52 47.52 0 0,0 -66.325168 , 43.091725" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4475.604715 2016.597817 l -5.47261 19.040714 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4471.535482 1944.175142 a 198 198 0 0,0 -104.661759 , -140.198589" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4470.153265 1937.395811 a 110 110 0 0,0 59.224912 , 75.04292" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4475.604706 2016.59782 a 110 110 0 0,0 -1.89467 , -66.721485" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4470.13211 2035.638539 a 66 66 0 0,0 3.629973 , 46.154749" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4562.455083 2049.071643 l 14.134296 38.57645 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4562.455081 2049.071653 a 66 66 0 0,0 -33.076905 , -36.632908" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4275.269768 1706.490784 a 198 198 0 0,0 91.603968 , 97.485765" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4189.710139 1509.482681 l 85.559628 197.008108 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-3 -->
+     <path id="S2-L3-3_TxtLine1" d="M 4189.465092 1505.864051 l 122.691758 282.507933 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-3_TxtLine1">Unknown Person L3-3</textPath></text>
+     <path id="S2-L3-3_TxtLine2" d="M 4175.706589 1511.839299 l 122.691758 282.507933 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-3_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2001</textPath></text>
+     <path id="S2-L2-2_TxtMarrage1" d="M 4186.933078 1473.955265 a 63.8 63.8 0 0,1 97.302826 , -44.314925" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L2-2_TxtMarrage1">17-Jun-1956</textPath></text>
+<!--- s2-l3-4 -->
+     <path d="M 4833.337041 1883.542686 a 88 88 0 0,0 -68.307009 , -28.92418" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4636.925026 1793.652926 a 154 154 0 0,0 128.105013 , 60.965589" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4612.476271 1761.352494 a 66 66 0 0,0 -39.729203 , -24.895341" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4510.563905 1699.980154 a 110 110 0 0,0 62.183155 , 36.47701" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4612.476263 1761.352497 l 24.448754 32.300422 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4570.227559 1735.92446 a 47.52 47.52 0 0,0 -46.231171 , 60.884653" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4519.477324 1749.146127 a 110 110 0 0,0 -26.30867 , -69.551174" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4519.913288 1775.041025 a 66 66 0 0,0 16.965703 , 43.076704" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4519.477335 1749.146127 l 0.435952 25.894902 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4331.114831 1489.686993 l 179.449072 210.29316 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-4 -->
+     <path id="S2-L3-4_TxtLine1" d="M 4308.309719 1459.843329 l 199.735325 234.456391 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-4_TxtLine1">Unknown Person L3-4</textPath></text>
+     <path id="S2-L3-4_TxtLine2" d="M 4296.891389 1469.570699 l 199.735325 234.456391 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-4_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1942</textPath></text>
+<!--- s2-l3-5 -->
+     <path d="M 4946.086008 1635.409762 a 88 88 0 0,0 29.815813 , 67.922551" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4575.505956 1206.308534 l 212.624082 176.681054 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4767.518888 1365.862663 a 110 110 0 0,0 69.889586 , 25.396019" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4825.417863 1444.689936 a 110 110 0 0,0 -37.287837 , -61.700358" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4885.126535 1395.153451 a 47.52 47.52 0 0,0 -60.27429 , 47.024166" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4825.417863 1444.689935 a 66 66 0 0,0 25.413248 , 39.39993" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4850.831116 1484.089862 l 32.617684 24.023868 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4946.086007 1635.409761 a 154 154 0 0,0 -62.637209 , -127.296023" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4906.601948 1407.756054 a 66 66 0 0,0 -43.295088 , -16.400393" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4837.408476 1391.258684 l 25.898378 0.096976 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-5 -->
+     <path id="S2-L3-5_TxtLine1" d="M 4556.701564 1189.731599 l 236.888986 196.844122 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-5_TxtLine1">Alexander Szabo</textPath></text>
+     <path id="S2-L3-5_TxtLine2" d="M 4547.115 1201.2684 l 236.888986 196.844122 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-5_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2002</textPath></text>
+     <path id="S2-L2-3_TxtMarrage1" d="M 4518.225547 1164.902533 a 63.8 63.8 0 0,1 45.712378 , -103.25819" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L2-3_TxtMarrage1">19-Jun-1956</textPath></text>
+<!--- s2-l3-6 -->
+     <path d="M 5273.942164 1548.052562 a 88 88 0 0,0 50.129417 , 57.361366" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5273.942175 1548.052567 a 154 154 0 0,0 -97.313155 , -104.117576" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5137.870858 1430.306836 l 38.75817 13.628142 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5145.207047 1335.420008 a 47.52 47.52 0 0,0 -43.144891 , 64.662987" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5169.428727 1341.193129 a 66 66 0 0,0 -46.198309 , -3.025515" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5104.262976 1343.888988 l 18.967454 -5.721364 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4890.236682 1237.950432 a 198 198 0 0,0 141.556558 , 102.817649" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5037.52239 1342.867817 a 110 110 0 0,0 66.740569 , 1.02115" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5100.808114 1397.712277 a 110 110 0 0,0 -75.811721 , -58.237557" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5100.808116 1397.712281 a 66 66 0 0,0 37.062733 , 32.594562" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4890.236678 1237.950428 a 198 198 0 0,0 -98.676473 , -90.320071" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4593.449024 1064.656826 l 198.111188 82.97355 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-6 -->
+     <path id="S2-L3-6_TxtLine1" d="M 4578.38366 1057.828753 l 284.087846 118.987794 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-6_TxtLine1">Anna Buzas</textPath></text>
+     <path id="S2-L3-6_TxtLine2" d="M 4572.5888 1071.6642 l 284.087846 118.987794 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-6_TxtLine2">B: 4-May-1922  --  D: 12-Mar-1943</textPath></text>
+<!--- s2-l3-7 -->
+     <path d="M 5212.904696 1147.42153 l -33.174262 -38.471026 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5267.232849 1072.550618 a 47.52 47.52 0 0,0 -32.864158 , 89.084221" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5200.683278 1101.301544 l -71.00368 -33.999108 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5129.679614 1067.30245 a 110 110 0 0,0 95.297709 , 7.574746" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5179.730444 1108.950487 a 198 198 0 0,0 -218.110246 , -56.59441" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5267.23286 1072.550624 l 44.9977 18.82562 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5312.230564 1091.376232 a 154 154 0 0,0 141.390076 , -11.685192" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5527.210277 1070.362578 a 88 88 0 0,0 -73.58964 , 9.328474" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5238.037672 1162.812554 l -3.668984 -1.177704 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4827.852044 1053.273028 a 198 198 0 0,0 133.76816 , -0.916953" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4625.200326 982.104686 l 202.651702 71.16835 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-7 -->
+     <path id="S2-L3-7_TxtLine1" d="M 4623.5522 980.172764 l 290.600794 102.054784 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-7_TxtLine1">Gabniel Csallokozi</textPath></text>
+     <path id="S2-L3-7_TxtLine2" d="M 4618.582 994.3254 l 290.600794 102.054784 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-7_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2003</textPath></text>
+     <path id="S2-L2-4_TxtMarrage1" d="M 4608.664273 971.103883 a 63.8 63.8 0 0,1 20.177269 , -112.023365" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="18" font-family="times new roman"> <textPath href="#S2-L2-4_TxtMarrage1">26-Jun-1956</textPath></text>
+<!--- s2-l3-8 -->
+     <path d="M 5337.063403 764.326224 a 88 88 0 0,0 -67.646741 , 30.436393" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5137.621085 847.275683 a 154 154 0 0,0 131.795583 , -52.513062" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5097.311586 843.250219 a 66 66 0 0,0 -45.265579 , 12.215359" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4983.02264 876.276393 a 110 110 0 0,0 69.023379 , -20.810817" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5097.311592 843.250212 l 40.309478 4.025472 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5049.942625 856.951351 a 47.52 47.52 0 0,0 13.227884 , 75.294656" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5044.429676 920.44337 a 66 66 0 0,0 43.126344 , 16.839117" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5025.141328 903.160579 a 110 110 0 0,0 -68.894477 , -27.983264" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5025.141318 903.160568 l 19.288346 17.282804 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4706.804178 864.938274 l 276.218448 11.338118 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L3-8 -->
+     <path id="S2-L3-8_TxtLine1" d="M 4672.377796 860.298221 l 307.740851 12.632026 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-8_TxtLine1">Anna Hencz</textPath></text>
+     <path id="S2-L3-8_TxtLine2" d="M 4671.7626 875.2856 l 307.740851 12.632026 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L3-8_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1944</textPath></text>
+<!--- s2-l4-1 -->
+     <path d="M 3881.13266 2485.890706 a 132 132 0 0,0 21.674563 , -84.293245" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3902.20577 2377.883666 a 132 132 0 0,0 27.390874 , 77.212486" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3929.596629 2455.096147 l 21.608048 28.047404 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3964.838806 2520.123714 a 47.432 47.432 0 0,0 -94.777688 , 2.403857" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3964.900107 2521.749792 a 66 66 0 0,0 -13.695437 , -38.606243" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3881.13265 2485.890717 a 66 66 0 0,0 -11.050344 , 38.263956" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 3899.138869 2256.964537 l 3.66836 144.632934 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-1 -->
+     <path id="S2-L4-1_TxtLine1" d="M 3900.103766 2257.569175 l 9.751833 384.488752 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-1_TxtLine1">Unknown Person L4-1</textPath></text>
+     <path id="S2-L4-1_TxtLine2" d="M 3885.108589 2257.949499 l 9.751833 384.488752 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-1_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2004</textPath></text>
+     <path id="S2-L3-1_TxtMarrage1" d="M 3982.237347 1982.216718 a 44 44 0 0,1 84.377826 , 15.692859" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-1_TxtMarrage1">23-Jun-1956</textPath></text>
+<!--- s2-l4-2 -->
+     <path d="M 4120.176048 2277.340522 a 66 66 0 0,0 -20.099491 , -45.772233" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4068.814353 2005.214599 l 4.290946 158.958668 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4073.280981 2170.682005 a 88 88 0 0,0 26.795568 , 60.886273" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4045.822872 2230.275934 a 66 66 0 0,0 -20.464625 , 49.469469" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4045.822873 2230.275914 a 88 88 0 0,0 27.282414 , -66.102662" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4102.262488 2233.784165 a 47.4232 47.4232 0 0,0 -73.004221 , 21.877368" stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-2 -->
+     <path id="S2-L4-2_TxtLine1" d="M 4071.698726 2003.636137 l 8.311125 307.887846 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-2_TxtLine1">Unknown Person L4-2</textPath></text>
+     <path id="S2-L4-2_TxtLine2" d="M 4056.704189 2004.040899 l 8.311125 307.887846 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-2_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1945</textPath></text>
+<!--- s2-l4-3 -->
+     <path d="M 4348.030284 2677.048259 a 47.5178 47.5178 0 0,0 -90.149272 , 30.081124" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4257.873266 2677.071512 a 132 132 0 0,0 -0.021525 , -83.49798" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4249.802076 2569.449726 a 132 132 0 0,0 72.227508 , 79.11755" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4207.637939 2443.089245 l 42.164125 126.360465 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-3 -->
+     <path id="S2-L4-3_TxtLine1" d="M 4209.429552 2437.625428 l 121.739355 364.837262 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-3_TxtLine1">Unknown Person L4-3</textPath></text>
+     <path id="S2-L4-3_TxtLine2" d="M 4195.200789 2442.373299 l 121.739355 364.837262 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-3_TxtLine2">B: 4-May-1923  --  D: 4-Nov-2005</textPath></text>
+     <path id="S2-L3-2_TxtMarrage1" d="M 4206.866746 2172.797959 a 44 44 0 0,1 82.62844 , -28.034017" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-2_TxtMarrage1">25-Jun-1956</textPath></text>
+<!--- s2-l4-4 -->
+     <path d="M 4340.109555 2374.680542 a 88 88 0 0,0 6.763754 , -71.190896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4348.944302 2309.662619 a 88 88 0 0,0 43.426152 , 50.391566" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4422.169518 2390.799775 a 47.4232 47.4232 0 0,0 -90.329837 , 28.919892" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4295.069217 2149.078033 l 51.804082 154.411598 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-4 -->
+     <path id="S2-L4-4_TxtLine1" d="M 4290.414795 2133.467644 l 97.965663 292.004673 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-4_TxtLine1">Unknown Person L4-4</textPath></text>
+     <path id="S2-L4-4_TxtLine2" d="M 4276.193789 2138.238699 l 97.965663 292.004673 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-4_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1946</textPath></text>
+<!--- s2-l4-5 -->
+     <path d="M 4635.296751 2307.930292 a 47.5178 47.5178 0 0,0 -86.002779 , 40.438625" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4548.440112 2309.789096 a 88 88 0 0,0 -1.453772 , -71.17552" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4635.296751 2307.930292 a 47.5178 47.5178 0 0,0 -31.744056 , -25.973606" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4544.691946 2233.69977 a 88 88 0 0,0 58.860765 , 48.256916" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4473.762083 2081.793277 l 70.929848 151.906502 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-5 -->
+     <path id="S2-L4-5_TxtLine1" d="M 4477.099758 2077.396267 l 130.309302 279.076129 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-5_TxtLine1">Unknown Person L4-5</textPath></text>
+     <path id="S2-L4-5_TxtLine2" d="M 4463.508389 2083.742499 l 130.309302 279.076129 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-5_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2006</textPath></text>
+     <path id="S2-L3-3_TxtMarrage1" d="M 4471.926648 2066.218596 a 44 44 0 0,1 80.857252 , -30.883052" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-3_TxtMarrage1">27-Jun-1956</textPath></text>
+<!--- s2-l4-6 -->
+     <path d="M 4883.531566 2457.094593 a 47.5178 47.5178 0 0,0 -86.045241 , 40.348197" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4816.151894 2397.40575 a 66 66 0 0,0 39.166428 , 34.685224" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4883.531566 2457.094593 a 47.5178 47.5178 0 0,0 -13.690749 , -17.23002" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4802.241777 2449.046947 a 66 66 0 0,0 6.625623 , -67.175876" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4738.137909 2231.035425 l 78.013982 166.370327 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-6 -->
+     <path id="S2-L4-6_TxtLine1" d="M 4751.046598 2252.326925 l 163.290384 348.2283 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-6_TxtLine1">Unknown Person L4-6</textPath></text>
+     <path id="S2-L4-6_TxtLine2" d="M 4737.465589 2258.695299 l 163.290384 348.2283 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-6_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1947</textPath></text>
+<!--- s2-l4-7 -->
+     <path d="M 4643.342333 1936.235574 a 88 88 0 0,0 65.330462 , 29.08303" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4670.258696 2003.652528 a 88 88 0 0,0 -22.557116 , -62.580486" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4670.258709 2003.652537 a 66 66 0 0,0 16.989917 , 47.015204" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4738.171838 1972.291447 a 47.4232 47.4232 0 0,0 -67.969352 , 34.473216" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4757.598541 1987.051049 a 66 66 0 0,0 -48.925766 , -21.732433" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4536.879005 1818.117733 l 106.463324 118.117846 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-7 -->
+     <path id="S2-L4-7_TxtLine1" d="M 4528.021875 1811.0818 l 206.02118 228.952557 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-7_TxtLine1">Unknown Person L4-7</textPath></text>
+     <path id="S2-L4-7_TxtLine2" d="M 4516.871589 1821.115299 l 206.02118 228.952557 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-7_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2007</textPath></text>
+     <path id="S2-L3-4_TxtMarrage1" d="M 4528.583878 1799.375017 a 44 44 0 0,1 68.431743 , -50.347303" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-4_TxtMarrage1">29-Jun-1956</textPath></text>
+<!--- s2-l4-8 -->
+     <path d="M 5037.458441 2055.89033 a 47.432 47.432 0 0,0 -70.320173 , 63.589794" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4951.524879 2083.291102 a 66 66 0 0,0 16.689837 , 37.409308" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4947.845757 2048.07707 l 3.679126 35.214036 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4930.376548 1990.852869 a 132 132 0 0,0 73.806738 , 46.127034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5038.564632 2057.083697 a 66 66 0 0,0 -34.38136 , -20.103793" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4947.845765 2048.077078 a 132 132 0 0,0 -33.379675 , -74.818616" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4833.337035 1883.542697 l 97.039512 107.310173 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-8 -->
+     <path id="S2-L4-8_TxtLine1" d="M 4843.790168 1890.355464 l 202.30126 232.245992 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-8_TxtLine1">Unknown Person L4-8</textPath></text>
+     <path id="S2-L4-8_TxtLine2" d="M 4832.664519 1900.416276 l 202.30126 232.245992 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-8_TxtLine2">B: 4-May-1924  --  D: 12-Mar-1948</textPath></text>
+<!--- s2-l4-9 -->
+     <path d="M 5115.052837 1857.614467 a 132 132 0 0,0 -47.089183 , -73.19663" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5197.061069 1819.492722 a 47.432 47.432 0 0,0 -62.663884 , 71.146513" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5050.162488 1768.739048 a 132 132 0 0,0 75.249132 , 32.39747" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5125.411616 1801.136513 l 35.259158 3.217852 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5198.29536 1820.553097 a 66 66 0 0,0 -37.624566 , -16.198735" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5115.052846 1857.614454 a 66 66 0 0,0 20.552108 , 34.115264" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4975.90182 1703.332314 l 92.061834 81.085519 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-9 -->
+     <path id="S2-L4-9_TxtLine1" d="M 4955.389917 1679.65941 l 272.11377 239.670293 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-9_TxtLine1">Unknown Person L4-9</textPath></text>
+     <path id="S2-L4-9_TxtLine2" d="M 4945.4756 1690.9158 l 272.11377 239.670293 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-9_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2008</textPath></text>
+     <path id="S2-L3-5_TxtMarrage1" d="M 4836.541995 1466.48646 a 44 44 0 0,1 55.081432 , -65.118214" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-5_TxtMarrage1">3-Jun-1956</textPath></text>
+<!--- s2-l4-10 -->
+     <path d="M 5056.038919 1577.608308 a 66 66 0 0,0 22.370989 , 48.637106" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5056.03892 1577.608307 a 88 88 0 0,0 -29.935688 , -64.944179" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5030.996345 1516.959726 a 88 88 0 0,0 62.870388 , 21.73603" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5141.100314 1555.068793 a 66 66 0 0,0 -47.233567 , -16.373051" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5096.977867 1538.598807 a 47.4232 47.4232 0 0,0 -33.580571 , 68.41477" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 4906.601952 1407.756044 l 119.501272 104.908078 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-10 -->
+     <path id="S2-L4-10_TxtLine1" d="M 4901.376959 1402.958067 l 231.462673 203.197025 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-10_TxtLine1">Unknown Person L4-10</textPath></text>
+     <path id="S2-L4-10_TxtLine2" d="M 4891.481 1414.2306 l 231.462673 203.197025 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-10_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1995</textPath></text>
+<!--- s2-l4-11 -->
+     <path d="M 5571.106088 1674.574232 a 47.432 47.432 0 0,0 -39.124541 , 86.358896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5503.230655 1733.973734 a 66 66 0 0,0 30.224723 , 27.649108" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5456.426318 1662.144824 a 132 132 0 0,0 76.623631 , 8.358901" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5572.596468 1675.22741 a 66 66 0 0,0 -39.54652 , -4.723685" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5485.812656 1703.148799 l 17.417994 30.824948 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5485.812647 1703.148804 a 132 132 0 0,0 -48.922763 , -49.377826" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5456.42631 1662.144825 l -132.354712 -56.730903 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-11 -->
+     <path id="S2-L4-11_TxtLine1" d="M 5323.460044 1600.078305 l 386.151257 165.515099 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-11_TxtLine1">Unknown Person L4-11</textPath></text>
+     <path id="S2-L4-11_TxtLine2" d="M 5317.5506 1613.8652 l 386.151257 165.515099 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-11_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1936</textPath></text>
+     <path id="S2-L3-6_TxtMarrage1" d="M 5117.863825 1416.437083 a 44 44 0 0,1 30.029386 , -77.485328" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-6_TxtMarrage1">2-Feb-1956</textPath></text>
+<!--- s2-l4-12 -->
+     <path d="M 5384.223074 1466.132142 l 17.417994 30.824948 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5469.516506 1437.557575 a 47.432 47.432 0 0,0 -39.124541 , 86.358896" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5401.641051 1496.957099 a 66 66 0 0,0 30.224723 , 27.649108" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5471.006886 1438.210754 a 66 66 0 0,0 -39.387824 , -4.753613" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5353.027602 1424.033193 a 132 132 0 0,0 78.591454 , 9.423947" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5384.223065 1466.132147 a 132 132 0 0,0 -60.449447 , -55.298216" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5353.027602 1424.033206 l -183.592948 -82.837414 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-12 -->
+     <path id="S2-L4-12_TxtLine1" d="M 5192.828528 1348.882131 l 280.745461 126.672751 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-12_TxtLine1">Unknown Person L4-12</textPath></text>
+     <path id="S2-L4-12_TxtLine2" d="M 5186.6594 1362.5548 l 280.745461 126.672751 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-12_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1996</textPath></text>
+<!--- s2-l4-13 -->
+     <path d="M 5446.600416 1256.16615 a 66 66 0 0,0 38.319205 , 32.104912" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5446.600408 1256.166158 a 88 88 0 0,0 -50.95568 , -42.762827" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5510.948942 1196.918243 a 47.5178 47.5178 0 0,0 -28.898528 , 90.535299" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5513.761191 1197.914204 a 66 66 0 0,0 -53.219752 , 5.804068" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5389.445168 1211.413309 a 88 88 0 0,0 71.096262 , -7.695034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5238.037672 1162.812554 l 151.407498 48.60075 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-13 -->
+     <path id="S2-L4-13_TxtLine1" d="M 5237.567099 1159.88876 l 293.261987 94.135048 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-13_TxtLine1">Unknown Person L4-13</textPath></text>
+     <path id="S2-L4-13_TxtLine2" d="M 5232.9826 1174.171 l 293.261987 94.135048 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-13_TxtLine2">B: 4-May-1925  --  D: 12-Mar-1937</textPath></text>
+     <path id="S2-L3-7_TxtMarrage1" d="M 5226.33261 1154.165106 a 44 44 0 0,1 26.959484 , -81.555879" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-7_TxtMarrage1">4-Feb-1956</textPath></text>
+<!--- s2-l4-14 -->
+     <path d="M 5736.69115 1185.844541 a 66 66 0 0,0 33.231537 , 23.951449" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5715.810796 1157.251279 a 132 132 0 0,0 -66.463075 , -47.902898" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5742.430636 1123.373361 a 47.432 47.432 0 0,0 -15.20543 , 49.508653" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5671.945849 1116.561613 a 132 132 0 0,0 86.990889 , 2.779034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5798.764258 1119.439131 a 66 66 0 0,0 -39.827512 , -0.098484" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5798.792736 1119.349922 a 47.5178 47.5178 0 0,0 -28.898528 , 90.535299" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5527.21027 1070.36257 l 144.735577 46.19906 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5715.810789 1157.25129 l 20.880354 28.593268 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-14 -->
+     <path id="S2-L4-14_TxtLine1" d="M 5523.693416 1065.248308 l 373.306781 119.158124 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-14_TxtLine1">Unknown Person L4-14</textPath></text>
+     <path id="S2-L4-14_TxtLine2" d="M 5519.1322 1079.538 l 373.306781 119.158124 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-14_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1997</textPath></text>
+<!--- s2-l4-15 -->
+     <path d="M 5353.762891 891.420959 a 47.4232 47.4232 0 0,0 1.406158 , 94.833855" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5318.323483 969.915137 a 88 88 0 0,0 -65.25576 , -30.332309" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5249.399305 939.531842 a 88 88 0 0,0 68.496063 , -31.261204" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5087.556022 937.28248 l 165.511698 2.300342 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-15 -->
+     <path id="S2-L4-15_TxtLine1" d="M 5076.401456 933.894649 l 307.970256 4.280287 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-15_TxtLine1">Unknown Person L4-15</textPath></text>
+     <path id="S2-L4-15_TxtLine2" d="M 5076.193 948.8932 l 307.970256 4.280287 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-15_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1938</textPath></text>
+     <path id="S2-L3-8_TxtMarrage1" d="M 5073.459762 932.34111 a 44 44 0 0,1 7.265754 , -86.476933" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L3-8_TxtMarrage1">6-Feb-1956</textPath></text>
+<!--- s2-l4-16 -->
+     <path d="M 5609.473133 731.863784 a 47.432 47.432 0 0,0 -1.16305 , 94.801034" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5488.981998 766.190017 a 132 132 0 0,0 84.002312 , -22.776071" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5542.826771 792.276857 a 132 132 0 0,0 -77.564406 , -26.377847" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5542.826766 792.276867 l 28.327838 21.239042 " stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5571.154612 813.515925 a 66 66 0 0,0 38.782203 , 13.188923" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5611.10036 731.863695 a 66 66 0 0,0 -38.116033 , 11.550257" stroke="wheat" stroke-width="44"  fill="none"/>
+     <path d="M 5337.06339 764.326224 l 151.918618 1.863791 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L4-16 -->
+     <path id="S2-L4-16_TxtLine1" d="M 5343.175411 762.021529 l 391.833513 4.80714 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-16_TxtLine1">Unknown Person L4-16</textPath></text>
+     <path id="S2-L4-16_TxtLine2" d="M 5342.9914 777.0204 l 391.833513 4.80714 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L4-16_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1998</textPath></text>
+<!--- s2-l5-1 -->
+     <path d="M 3870.082317 2524.154675 l 4.989756 196.732881 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-1T -->
+     <path d="M 3875.624889 2781.079424 l -23.425072 -59.6117 l 43.798106 -1.110868 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-1 -->
+     <path id="S2-L5-1_TxtLine1" d="M 3870.390471 2519.909545 l 9.223183 363.645455 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-1_TxtLine1">Unknown Person L5-1</textPath></text>
+     <path id="S2-L5-1_TxtLine2" d="M 3855.395293 2520.289869 l 9.223183 363.645455 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-1_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1939</textPath></text>
+     <path id="S2-L4-1_TxtMarrage1" d="M 3874.163813 2515.288275 a 44 44 0 0,1 85.488883 , -4.922144" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-1_TxtMarrage1">8-Feb-1956</textPath></text>
+<!--- s2-l5-2 -->
+     <path d="M 3964.900117 2521.749789 l 4.989756 196.733594 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-2T -->
+     <path d="M 3970.442711 2778.675251 l -23.425072 -59.6117 l 43.798106 -1.110846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-2 -->
+     <path id="S2-L5-2_TxtLine1" d="M 3966.730671 2512.950945 l 9.222457 363.616864 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-2_TxtLine1">Unknown Person L5-2</textPath></text>
+     <path id="S2-L5-2_TxtLine2" d="M 3951.735493 2513.331269 l 9.222457 363.616864 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-2_TxtLine2">B: 4-May-1926  --  D: 4-Nov-1999</textPath></text>
+<!--- s2-l5-3 -->
+     <path d="M 4025.358259 2279.745383 l 4.989775 196.733671 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-3T -->
+     <path d="M 4007.610329 2477.055763 l 23.425094 59.6117 l 20.373034 -60.722596 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-3 -->
+     <path id="S2-L5-3_TxtLine1" d="M 4026.350766 2269.424975 l 9.219836 363.513497 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-3_TxtLine1">Unknown Person L5-3</textPath></text>
+     <path id="S2-L5-3_TxtLine2" d="M 4011.355589 2269.805299 l 9.219836 363.513497 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-3_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1940</textPath></text>
+     <path id="S2-L4-2_TxtMarrage1" d="M 4029.875141 2272.757614 a 44 44 0 0,1 87.911006 , -3.60847" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-2_TxtMarrage1">10-Feb-1956</textPath></text>
+<!--- s2-l5-4 -->
+     <path d="M 4120.176037 2277.340519 l 4.989798 196.734385 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-4T -->
+     <path d="M 4102.428152 2474.65159 l 23.425094 59.6117 l 20.373034 -60.722596 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-4 -->
+     <path id="S2-L5-4_TxtLine1" d="M 4120.343566 2265.165775 l 9.219111 363.484907 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-4_TxtLine1">Unknown Person L5-4</textPath></text>
+     <path id="S2-L5-4_TxtLine2" d="M 4105.348389 2265.546099 l 9.219111 363.484907 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-4_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2000</textPath></text>
+<!--- s2-l5-5 -->
+     <path d="M 4257.96985 2707.099751 l 62.253521 186.743232 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-5T -->
+     <path d="M 4297.356175 2901.473331 l 39.830318 50.15817 l 1.729244 -64.02572 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-5 -->
+     <path id="S2-L5-5_TxtLine1" d="M 4256.796374 2699.774444 l 118.813407 357.046079 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-5_TxtLine1">Unknown Person L5-5</textPath></text>
+     <path id="S2-L5-5_TxtLine2" d="M 4242.563712 2704.510615 l 118.813407 357.046079 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-5_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1941</textPath></text>
+     <path id="S2-L4-3_TxtMarrage1" d="M 4259.028539 2694.620446 a 44 44 0 0,1 79.016286 , -29.078747" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-3_TxtMarrage1">12-Feb-1956</textPath></text>
+<!--- s2-l5-6 -->
+     <path d="M 4347.941446 2677.077913 l 62.233347 186.681136 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-6T -->
+     <path d="M 4427.137914 2921.547548 l -39.830296 -50.15815 l 41.559562 -13.867656 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-6 -->
+     <path id="S2-L5-6_TxtLine1" d="M 4345.588343 2669.607949 l 118.785924 356.955526 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-6_TxtLine1">Unknown Person L5-6</textPath></text>
+     <path id="S2-L5-6_TxtLine2" d="M 4331.355712 2674.344215 l 118.785924 356.955526 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-6_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2001</textPath></text>
+<!--- s2-l5-7 -->
+     <path d="M 4395.648576 2616.426768 l -63.80889 -196.707089 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-7T -->
+     <path d="M 4374.868784 2623.360596 l 39.830318 50.15815 l 1.729244 -64.025808 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-7 -->
+     <path id="S2-L5-7_TxtLine1" d="M 4329.333451 2410.823529 l 119.123532 357.978034 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-7_TxtLine1">Unknown Person L5-7</textPath></text>
+     <path id="S2-L5-7_TxtLine2" d="M 4315.100789 2415.559699 l 119.123532 357.978034 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-7_TxtLine2">B: 4-May-1927  --  D: 12-Mar-1942</textPath></text>
+     <path id="S2-L4-4_TxtMarrage1" d="M 4333.259861 2409.993917 a 44 44 0 0,1 82.125835 , -26.249448" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-4_TxtMarrage1">14-Feb-1956</textPath></text>
+<!--- s2-l5-8 -->
+     <path d="M 4478.453278 2566.609983 l -56.28377 -175.810206 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-8T -->
+     <path d="M 4497.503804 2623.701963 l -39.830296 -50.15815 l 41.559562 -13.867656 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-8 -->
+     <path id="S2-L5-8_TxtLine1" d="M 4422.090173 2381.440257 l 108.606014 339.246039 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-8_TxtLine1">Unknown Person L5-8</textPath></text>
+     <path id="S2-L5-8_TxtLine2" d="M 4407.804389 2386.013699 l 108.606014 339.246039 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-8_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2002</textPath></text>
+<!--- s2-l5-9 -->
+     <path d="M 4632.865148 2526.449291 l -83.571169 -178.080364 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-9T -->
+     <path d="M 4613.031356 2535.749725 l 45.386484 45.19248 l -5.7189 -63.793334 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-9 -->
+     <path id="S2-L5-9_TxtLine1" d="M 4548.391572 2338.358245 l 159.089942 341.446109 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-9_TxtLine1">Unknown Person L5-9</textPath></text>
+     <path id="S2-L5-9_TxtLine2" d="M 4534.794989 2344.693299 l 159.089942 341.446109 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-9_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1943</textPath></text>
+     <path id="S2-L4-5_TxtMarrage1" d="M 4553.292543 2348.512601 a 44 44 0 0,1 71.047877 , -50.530247" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-5_TxtMarrage1">16-Feb-1956</textPath></text>
+<!--- s2-l5-10 -->
+     <path d="M 4721.646921 2492.770336 l -86.350169 -184.840027 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-10T -->
+     <path d="M 4747.199613 2547.263236 l -45.386506 -45.19248 l 39.667606 -18.600846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-10 -->
+     <path id="S2-L5-10_TxtLine1" d="M 4633.370206 2297.1724 l 161.408088 348.208857 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-10_TxtLine1">Unknown Person L5-10</textPath></text>
+     <path id="S2-L5-10_TxtLine2" d="M 4619.761189 2303.480699 l 161.408088 348.208857 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-10_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2003</textPath></text>
+<!--- s2-l5-11 -->
+     <path d="M 4884.0659 2682.120125 l -86.57958 -184.677337 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-11T -->
+     <path d="M 4909.618592 2736.613047 l -45.386506 -45.19248 l 39.667606 -18.600846 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-11 -->
+     <path id="S2-L5-11_TxtLine1" d="M 4793.291724 2475.248301 l 162.842054 347.533206 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-11_TxtLine1">Unknown Person L5-11</textPath></text>
+     <path id="S2-L5-11_TxtLine2" d="M 4779.701418 2481.596813 l 162.842054 347.533206 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-11_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1944</textPath></text>
+     <path id="S2-L4-6_TxtMarrage1" d="M 4799.570098 2493.399477 a 44 44 0 0,1 79.456536 , -37.404911" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-6_TxtMarrage1">18-Feb-1956</textPath></text>
+<!--- s2-l5-12 -->
+     <path d="M 4969.9413 2641.850623 l -86.409745 -184.756033 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-12T -->
+     <path d="M 4950.107508 2651.151035 l 45.386484 45.19248 l -5.7189 -63.793334 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-12 -->
+     <path id="S2-L5-12_TxtLine1" d="M 4875.883524 2434.697901 l 162.788049 347.417598 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-12_TxtLine1">Unknown Person L5-12</textPath></text>
+     <path id="S2-L5-12_TxtLine2" d="M 4862.293218 2441.046413 l 162.788049 347.417598 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-12_TxtLine2">B: 4-May-1928  --  D: 4-Nov-2004</textPath></text>
+<!--- s2-l5-13 -->
+     <path d="M 4687.248631 2050.667743 l 136.707142 151.408241 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-13T -->
+     <path d="M 4863.593018 2247.379924 l -56.656666 -29.87168 l 32.456292 -29.4294 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-13 -->
+     <path id="S2-L5-13_TxtLine1" d="M 4680.789875 2040.676 l 248.45753 276.112324 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-13_TxtLine1">Unknown Person L5-13</textPath></text>
+     <path id="S2-L5-13_TxtLine2" d="M 4669.639589 2050.709499 l 248.45753 276.112324 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-13_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1945</textPath></text>
+     <path id="S2-L4-7_TxtMarrage1" d="M 4678.704195 2036.44784 a 44 44 0 0,1 62.59741 , -58.394555" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-7_TxtMarrage1">20-Feb-1956</textPath></text>
+<!--- s2-l5-14 -->
+     <path d="M 4757.598559 1987.051047 l 136.782945 151.337774 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-14T -->
+     <path d="M 4934.018727 2183.692783 l -56.656666 -29.87168 l 32.456292 -29.4294 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-14 -->
+     <path id="S2-L5-14_TxtLine1" d="M 4749.736908 1974.756841 l 248.845282 275.638443 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-14_TxtLine1">Unknown Person L5-14</textPath></text>
+     <path id="S2-L5-14_TxtLine2" d="M 4738.602989 1984.808499 l 248.845282 275.638443 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-14_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2005</textPath></text>
+<!--- s2-l5-15 -->
+     <path d="M 4967.914399 2120.709872 l 136.784771 151.33957 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-15T -->
+     <path d="M 5087.74971 2287.418268 l 56.656666 29.87166 l -24.200396 -59.30122 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-15 -->
+     <path id="S2-L5-15_TxtLine1" d="M 4960.277039 2111.075818 l 248.7126 275.491475 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-15_TxtLine1">Unknown Person L5-15</textPath></text>
+     <path id="S2-L5-15_TxtLine2" d="M 4949.143119 2121.127476 l 248.7126 275.491475 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-15_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1946</textPath></text>
+     <path id="S2-L4-8_TxtMarrage1" d="M 4965.788536 2111.742745 a 44 44 0 0,1 59.197616 , -61.185946" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-8_TxtMarrage1">22-Feb-1956</textPath></text>
+<!--- s2-l5-16 -->
+     <path d="M 5038.564649 2057.083694 l 136.822607 151.30401 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-16T -->
+     <path d="M 5158.230974 2223.983989 l 56.696904 29.79521 l -24.280344 -59.26844 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-16 -->
+     <path id="S2-L5-16_TxtLine1" d="M 5032.22857 2047.983867 l 248.663103 274.98174 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-16_TxtLine1">Unknown Person L5-16</textPath></text>
+     <path id="S2-L5-16_TxtLine2" d="M 5021.102919 2058.044676 l 248.663103 274.98174 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-16_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2006</textPath></text>
+<!--- s2-l5-17 -->
+     <path d="M 5135.604942 1891.729719 l 153.087662 134.835395 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-17T -->
+     <path d="M 5333.88441 2066.315858 l -59.674054 -23.26594 l 28.91614 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-17 -->
+     <path id="S2-L5-17_TxtLine1" d="M 5128.429682 1885.190921 l 277.894452 244.761757 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-17_TxtLine1">Unknown Person L5-17</textPath></text>
+     <path id="S2-L5-17_TxtLine2" d="M 5118.515364 1896.447311 l 277.894452 244.761757 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-17_TxtLine2">B: 4-May-1929  --  D: 12-Mar-1947</textPath></text>
+     <path id="S2-L4-9_TxtMarrage1" d="M 5127.361916 1875.344857 a 44 44 0 0,1 61.805759 , -57.182135" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-9_TxtMarrage1">24-Feb-1956</textPath></text>
+<!--- s2-l5-18 -->
+     <path d="M 5198.300894 1820.252687 l 153.086191 134.834089 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-18T -->
+     <path d="M 5396.427663 1995.009625 l -59.674054 -23.26592 l 28.91614 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-18 -->
+     <path id="S2-L5-18_TxtLine1" d="M 5190.148482 1810.692321 l 277.783839 244.664333 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-18_TxtLine1">Unknown Person L5-18</textPath></text>
+     <path id="S2-L5-18_TxtLine2" d="M 5180.234164 1821.948711 l 277.783839 244.664333 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-18_TxtLine2">B: 12/13/1862  --  D: 4-Nov-2007</textPath></text>
+<!--- s2-l5-19 -->
+     <path d="M 5078.409918 1626.245414 l 153.087662 134.835395 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-19T -->
+     <path d="M 5276.689364 1800.831553 l -59.674032 -23.26594 l 28.916118 -32.91442 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-19 -->
+     <path id="S2-L5-19_TxtLine1" d="M 5061.095517 1611.39041 l 237.85771 206.487347 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-19_TxtLine1">Unknown Person L5-19</textPath></text>
+     <path id="S2-L5-19_TxtLine2" d="M 5051.1812 1622.6468 l 237.85771 206.487347 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-19_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1948</textPath></text>
+     <path id="S2-L4-10_TxtMarrage1" d="M 5069.141547 1609.982468 a 44 44 0 0,1 48.061972 , -67.160694" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-10_TxtMarrage1">26-Feb-1956</textPath></text>
+<!--- s2-l5-20 -->
+     <path d="M 5141.100304 1555.068792 l 145.581932 128.224543 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-20T -->
+     <path d="M 5272.199966 1699.778133 l 59.674054 23.26594 l -30.757914 -56.180476 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-20 -->
+     <path id="S2-L5-20_TxtLine1" d="M 5122.618517 1537.26361 l 233.77089 202.887789 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-20_TxtLine1">Unknown Person L5-20</textPath></text>
+     <path id="S2-L5-20_TxtLine2" d="M 5112.7042 1548.52 l 233.77089 202.887789 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-20_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2008</textPath></text>
+<!--- s2-l5-21 -->
+     <path d="M 5533.455372 1761.622841 l 185.820075 84.185022 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-21T -->
+     <path d="M 5774.098171 1870.645071 l -63.862722 -4.88336 l 18.079996 -39.90767 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-21 -->
+     <path id="S2-L5-21_TxtLine1" d="M 5527.998807 1755.791108 l 336.872335 152.61862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-21_TxtLine1">Unknown Person L5-21</textPath></text>
+     <path id="S2-L5-21_TxtLine2" d="M 5521.808748 1769.454313 l 336.872335 152.61862 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-21_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1949</textPath></text>
+     <path id="S2-L4-11_TxtMarrage1" d="M 5522.328098 1749.94726 a 44 44 0 0,1 29.292975 , -75.49969" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-11_TxtMarrage1">28-Feb-1956</textPath></text>
+<!--- s2-l5-22 -->
+     <path d="M 5572.596474 1675.227411 l 206.996145 93.778754 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-22T -->
+     <path d="M 5770.552621 1788.960011 l 63.862722 4.88336 l -45.782726 -44.791054 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-22 -->
+     <path id="S2-L5-22_TxtLine1" d="M 5589.176407 1678.707508 l 352.320683 159.61743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-22_TxtLine1">Unknown Person L5-22</textPath></text>
+     <path id="S2-L5-22_TxtLine2" d="M 5582.986348 1692.370713 l 352.320683 159.61743 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-22_TxtLine2">B: 4-May-1930  --  D: 4-Nov-2009</textPath></text>
+<!--- s2-l5-23 -->
+     <path d="M 5431.86579 1524.606206 l 202.751336 91.85566 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-23T -->
+     <path d="M 5689.43985 1641.299074 l -63.862744 -4.88338 l 18.080018 -39.90756 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-23 -->
+     <path id="S2-L5-23_TxtLine1" d="M 5441.922459 1526.101595 l 353.803596 160.289258 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-23_TxtLine1">Unknown Person L5-23</textPath></text>
+     <path id="S2-L5-23_TxtLine2" d="M 5435.7324 1539.7648 l 353.803596 160.289258 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-23_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1996</textPath></text>
+     <path id="S2-L4-12_TxtMarrage1" d="M 5423.246037 1515.191721 a 44 44 0 0,1 34.975637 , -77.256901" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-12_TxtMarrage1">6-Mar-1956</textPath></text>
+<!--- s2-l5-24 -->
+     <path d="M 5471.00687 1438.210754 l 185.718367 84.138935 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-24T -->
+     <path d="M 5647.218817 1543.584969 l 63.862722 4.88336 l -45.782704 -44.7909 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-24 -->
+     <path id="S2-L5-24_TxtLine1" d="M 5462.127259 1434.051395 l 331.042883 149.977611 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-24_TxtLine1">Unknown Person L5-24</textPath></text>
+     <path id="S2-L5-24_TxtLine2" d="M 5455.9372 1447.7146 l 331.042883 149.977611 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-24_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1937</textPath></text>
+<!--- s2-l5-25 -->
+     <path d="M 5482.078898 1287.3643 l 201.895688 64.444373 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-25T -->
+     <path d="M 5676.814796 1371.480083 l 64.04915 0 l -45.782704 -44.7909 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-25 -->
+     <path id="S2-L5-25_TxtLine1" d="M 5485.235216 1283.805108 l 371.317274 118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-25_TxtLine1">Unknown Person L5-25</textPath></text>
+     <path id="S2-L5-25_TxtLine2" d="M 5480.674 1298.0948 l 371.317274 118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-25_TxtLine2">B: 12/13/1832  --  D: 4-Nov-1997</textPath></text>
+     <path id="S2-L4-13_TxtMarrage1" d="M 5463.645327 1271.453478 a 44 44 0 0,1 35.149272 , -73.207697" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-13_TxtMarrage1">3-Mar-1956</textPath></text>
+<!--- s2-l5-26 -->
+     <path d="M 5510.920458 1197.007462 l 201.90792 64.448245 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-26T -->
+     <path d="M 5769.717738 1281.127095 l -64.04915 0 l 14.98464 -41.170008 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-26 -->
+     <path id="S2-L5-26_TxtLine1" d="M 5512.543816 1192.016708 l 371.317274 118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-26_TxtLine1">Unknown Person L5-26</textPath></text>
+     <path id="S2-L5-26_TxtLine2" d="M 5507.9826 1206.3064 l 371.317274 118.523081 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-26_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1938</textPath></text>
+<!--- s2-l5-27 -->
+     <path d="M 5769.922671 1209.796002 l 196.178882 62.619552 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-27T -->
+     <path d="M 6022.990935 1292.086942 l -64.049172 0 l 14.984662 -41.170008 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-27 -->
+     <path id="S2-L5-27_TxtLine1" d="M 5767.100181 1204.612659 l 368.47534 117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-27_TxtLine1">Unknown Person L5-27</textPath></text>
+     <path id="S2-L5-27_TxtLine2" d="M 5762.538965 1218.902352 l 368.47534 117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-27_TxtLine2">B: 4-May-1931  --  D: 4-Nov-1998</textPath></text>
+     <path id="S2-L4-14_TxtMarrage1" d="M 5747.84922 1196.02549 a 44 44 0 0,1 24.739891 , -80.230063" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-14_TxtMarrage1">5-Mar-1956</textPath></text>
+<!--- s2-l5-28 -->
+     <path d="M 5798.764253 1119.439142 l 196.225258 62.634358 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-28T -->
+     <path d="M 6051.878871 1201.744888 l -64.049172 0 l 14.984662 -41.16992 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-28 -->
+     <path id="S2-L5-28_TxtLine1" d="M 5796.478981 1115.930659 l 368.47534 117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-28_TxtLine1">Unknown Person L5-28</textPath></text>
+     <path id="S2-L5-28_TxtLine2" d="M 5791.917765 1130.220352 l 368.47534 117.615946 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-28_TxtLine2">B: 12/13/1862  --  D: 12-Mar-1939</textPath></text>
+<!--- s2-l5-29 -->
+     <path d="M 5355.169038 986.25481 l 203.984931 2.502556 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-29T -->
+     <path d="M 5619.340491 988.66182 l -60.186522 -21.9061 l 0 43.81212 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-29 -->
+     <path id="S2-L5-29_TxtLine1" d="M 5348.899811 982.848729 l 363.213066 4.456015 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-29_TxtLine1">Unknown Person L5-29</textPath></text>
+     <path id="S2-L5-29_TxtLine2" d="M 5348.7158 997.8476 l 363.213066 4.456015 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-29_TxtLine2">B: 12/13/1862  --  D: 4-Nov-1999</textPath></text>
+     <path id="S2-L4-15_TxtMarrage1" d="M 5346.163349 982.111881 a 44 44 0 0,1 0.424742 , -86.614822" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-15_TxtMarrage1">7-Mar-1956</textPath></text>
+<!--- s2-l5-30 -->
+     <path d="M 5353.762886 891.420972 l 213.984637 2.625233 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-30T -->
+     <path d="M 5629.255937 893.966873 l -60.186522 -21.9061 l 0 43.81212 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-30 -->
+     <path id="S2-L5-30_TxtLine1" d="M 5347.907611 886.836329 l 371.80662 4.561444 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-30_TxtLine1">Unknown Person L5-30</textPath></text>
+     <path id="S2-L5-30_TxtLine2" d="M 5347.7236 901.8352 l 371.80662 4.561444 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-30_TxtLine2">B: 12/13/1832  --  D: 12-Mar-1940</textPath></text>
+<!--- s2-l5-31 -->
+     <path d="M 5609.93682 826.704843 l 204.324629 2.506717 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-31T -->
+     <path d="M 5874.077072 829.340568 l -60.085498 21.86934 l -0.101046 -43.77538 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-31 -->
+     <path id="S2-L5-31_TxtLine1" d="M 5603.307101 824.27631 l 371.169868 4.553632 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-31_TxtLine1">Unknown Person L5-31</textPath></text>
+     <path id="S2-L5-31_TxtLine2" d="M 5603.12309 839.275181 l 371.169868 4.553632 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-31_TxtLine2">B: 12/13/1832  --  D: 4-Nov-2000</textPath></text>
+     <path id="S2-L4-16_TxtMarrage1" d="M 5603.784516 822.765893 a 44 44 0 0,1 4.682227 , -87.433764" stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L4-16_TxtMarrage1">9-Mar-1956</textPath></text>
+<!--- s2-l5-32 -->
+     <path d="M 5611.100356 731.863701 l 204.30292 2.506447 " stroke="wheat" stroke-width="44"  fill="none"/>
+<!--- S2-L5-32T -->
+     <path d="M 5875.218877 734.499156 l -60.085476 21.86934 l -0.101046 -43.77538 Z " stroke="Black" stroke-width="0"  fill="wheat"/>
+<!--- S2-L5-32 -->
+     <path id="S2-L5-32_TxtLine1" d="M 5604.924101 729.50251 l 371.099473 4.552768 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="16" font-family="times new roman"> <textPath href="#S2-L5-32_TxtLine1">Unknown Person L5-32</textPath></text>
+     <path id="S2-L5-32_TxtLine2" d="M 5604.74009 744.501381 l 371.099473 4.552768 " stroke="Black" stroke-width="0"  fill="none"/>
+     <text font-size="14" font-family="times new roman"> <textPath href="#S2-L5-32_TxtLine2">B: 4-May-1932  --  D: 12-Mar-1941</textPath></text>
+</svg>

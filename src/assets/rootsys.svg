@@ -1,0 +1,53 @@
+<svg width="800" height="600" style="background-color:rgb(139, 69, 19)">
+  <rect id="sky" x="0" y="0" width="800" height="180" style="fill:#99ffcc"/> 
+  <rect id="grass" x="0" y="180" width="800" height="20" style="fill:#009900"/> 
+  <rect id="roots" x="360" y="200" width="20" height="0" style="fill:wheat"> 
+    <animate attributeName="height" attributeType="XML" begin="0s" dur="2s" fill="freeze" from="0" to="160" /> 
+  </rect>
+  
+  <rect id="roots" x="420" y="200" width="20" height="0" style="fill:wheat"> 
+    <animate attributeName="height" attributeType="XML" begin="0s" dur="2s" fill="freeze" from="0" to="160" /> 
+  </rect>
+
+</svg>
+
+  <rect id="sky" x="0" y="0" width="800" height="180" style="fill:#99ffcc"/> 
+  <rect id="grass" x="0" y="180" width="800" height="20" style="fill:#009900"/> 
+  <ellipse cx="360" cy="200" rx="10" ry="4" style="fill:#662200;stroke:brown;stroke-width:2" />
+  <ellipse cx="420" cy="200" rx="10" ry="4" style="fill:#662200;stroke:brown;stroke-width:2" />
+
+  <path  stroke="wheat" stroke-width="20" d="M420,200 v 100"
+          style="stroke-dasharray:0,200,80; stroke-dashoffset:0; fill:transparent">
+    <animate attributeName="stroke-dasharray" dur="1s" to="100" fill="freeze"/>
+  </path>
+
+  <g fill="none" stroke="wheat" stroke-width="20" transform="rotate(15)">
+    <path id="circl-path" d="M360,110 v 100"
+          style="stroke-dasharray:0,200,80; stroke-dashoffset:0; fill:transparent">
+      <animate attributeName="stroke-dasharray" dur="1s" to="100" fill="freeze"/>
+    </path>
+    <path id="circl-path" d="M360,200 s 80,0 100,80"
+          style="stroke-dasharray:0,200,80; stroke-dashoffset:0; fill:transparent">
+      <animate attributeName="stroke-dasharray" begin="1s" dur="3s" to="240" fill="freeze"/>
+    </path>
+    <path id="circl-path" d="M360,200 s -80,0 -100,80"
+          style="stroke-dasharray:0,200,80; stroke-dashoffset:0; fill:transparent">
+      <animate attributeName="stroke-dasharray" begin="1s" dur="3s" to="240" fill="freeze"/>
+    </path>
+  </g> 
+
+
+  <g fill="none" stroke="wheat" stroke-width="20" transform="rotate(15)">
+    <path id="circl-path" d="M180,10 v 100"
+          style="stroke:#2c3e50; stroke-dasharray:60; stroke-dashoffset:0; stroke-width:20; fill:transparent">
+      <animate attributeName="stroke-dasharray" dur="1s" to="100" fill="freeze"/>
+    </path>
+    <path id="circl-path" d="M180,100 s 80,0 100,80"
+          style="stroke:#2c3e50; stroke-dasharray:0,200,80; stroke-dashoffset:0; stroke-width:20; fill:transparent">
+      <animate attributeName="stroke-dasharray" begin="1s" dur="3s" to="240" fill="freeze"/>
+    </path>
+    <path id="circl-path" d="M180,100 s -80,0 -100,80"
+          style="stroke:#2c3e50; stroke-dasharray:0,200,80; stroke-dashoffset:0; stroke-width:20; fill:transparent">
+      <animate attributeName="stroke-dasharray" begin="1s" dur="3s" to="240" fill="freeze"/>
+    </path>
+  </g> 
